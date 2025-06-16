@@ -102,8 +102,13 @@ p {
   align-items: center;
   transition: .15s ease-in-out;
   box-shadow: inset 0px 2px 2px #0000001F, inset 2px 0px 2px #0000001F, inset 0px -2px 2px #0000003F, inset -2px 0px 2px #0000003F;
+  pointer-events: none;
 }
 
 button:active> .button-front {
+  transform:translateY(0px);
+}
+
+.pressed {
   transform:translateY(0px);
 }
