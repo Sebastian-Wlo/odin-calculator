@@ -2,3 +2,108 @@
   font-family: segment7;
   src: url("/fonts/Segment7Standard.otf");
 }
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+p {
+   font-family: 'segment7';
+  font-size: 32pt;
+  font-style: italic;
+  text-shadow: 2px 2px #00000055;
+} 
+
+.calculator-body {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #333;
+  border-radius: 16px;
+  /*width: 292x;*/
+  /*height: 493px;*/
+  padding: 40px 25px 20px;
+  box-shadow: inset 0px 8px 8px #707070AF, inset 8px 0px 8px #707070AF, inset 0px -8px 8px #000000AF, inset -8px 0px 8px #000000AF;
+}
+
+.calc-display {
+  font-family: segment7;
+  width: 100%;
+  background-color: #91bb91;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 8pt;
+  box-shadow: 0px 8px 8px #707070AF, 8px 0px 8px #707070AF, 0px -8px 8px #000000AF, -8px 0px 8px #000000AF;
+}
+
+.calc-keyboard {
+  display: grid;
+  
+  width: 100%;
+  margin-top: 20px;
+  /*margin: 40px 20px 20px;*/
+  grid-template-rows:repeat(5, 64px);
+  grid-template-columns: repeat(4, 64px);
+  grid-gap: 12px;
+  align-items: center;
+}
+
+.round-button {
+  background-color: darkgreen;
+  border-radius: 50%;
+  border: 0;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  box-shadow: 0px 8px 8px #0000001F, 8px 0px 8px #0000001F, 0px -8px 8px #0000003F, -8px 0px 8px #0000003F;
+}
+
+.almond-button {
+  background-color: darkorange;
+  border-radius: 50%;
+  border: 0;
+  width: 100%;
+  height: 50%;
+  box-shadow: 0px 8px 8px #0000001F, 8px 0px 8px #0000001F, 0px -8px 8px #0000003F, -8px 0px 8px #0000003F;
+}
+
+.rect-button {
+  color: white;
+  background-color: dimgrey;
+  border-radius: 16px;
+  height: 80%;
+  width: 100%;
+  border:0;
+  box-shadow: 0px 8px 8px #0000001F, 8px 0px 8px #0000001F, 0px -8px 8px #0000003F, -8px 0px 8px #0000003F;
+}
+
+.button-vertical {
+  background-color: midnightblue;
+  grid-column: 4;
+  grid-row: -1 / -3;
+  height: 90%;
+}
+
+.button-front {
+  font-family: Arial, sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  display: block;
+  transform:translateY(-4px);
+  background-color: inherit;
+  filter: brightness(150%);
+  border-radius: inherit;
+  width: inherit;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: .15s ease-in-out;
+  box-shadow: inset 0px 2px 2px #0000001F, inset 2px 0px 2px #0000001F, inset 0px -2px 2px #0000003F, inset -2px 0px 2px #0000003F;
+}
+
+button:active> .button-front {
+  transform:translateY(0px);
+}
