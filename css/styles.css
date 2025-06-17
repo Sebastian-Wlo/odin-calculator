@@ -8,6 +8,12 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  background-image: url("/img/svg/woodgrain_tileablev2.svg");
+  --webkit-backdrop-filter: blur(1.2px) /* Fallback for Safari */
+  backdrop-filter: blur(1.2px);
+}
 p {
    font-family: 'segment7';
   font-size: 32pt;
