@@ -4,6 +4,7 @@ const numBtnsNodeList = document.querySelectorAll(".num-button");
 const numBtnsList = Array.from(numBtnsNodeList);
 const opBtnsNodeList = document.querySelectorAll(".op-button");
 const opBtnsList = Array.from(opBtnsNodeList);
+const equalsBtn = document.querySelector("#btn-equals");
 
 let inputs = {
   a: "0",
@@ -14,6 +15,7 @@ let inputs = {
 const operations = {
   addition: (a, b) => {return a + b},
   subtraction: (a, b) => {return a - b},
+  multiplication: (a, b) => {return a * b}
 }
 const opKeys = {
   "+": "addition",
@@ -83,6 +85,19 @@ function getInput(val) {
     //console.log("Not Int! Value:", val);
   }
 };
+
+const executeOperation = (inputs) => {
+  const firstNumber = +inputs.a;
+  const secondNumber = +inputs.b;
+  const operation = inputs.operator
+  const result = operations[operation](firstNumber, secondNumber)
+  inputs.a = String(result);
+  inputs.b = "";
+  numbersDisplay.innerText = inputs.a;
+
+};
+
+equalsBtn.addEventListener("click", () => executeOperation(inputs));
 
 window.addEventListener("keydown", checkKey);
 
