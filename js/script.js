@@ -1,8 +1,8 @@
 const numbersDisplay = document.querySelector("#numbers-display");
 
-const numBtnsNodeList = document.querySelectorAll(".num-button");
+const numBtnsNodeList = document.querySelectorAll(".btn-num");
 const numBtnsList = Array.from(numBtnsNodeList);
-const opBtnsNodeList = document.querySelectorAll(".op-button");
+const opBtnsNodeList = document.querySelectorAll(".btn-op");
 const opBtnsList = Array.from(opBtnsNodeList);
 const equalsBtn = document.querySelector("#btn-equals");
 
