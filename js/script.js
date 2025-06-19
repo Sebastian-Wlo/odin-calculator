@@ -5,6 +5,8 @@ const numBtnsList = Array.from(numBtnsNodeList);
 const opBtnsNodeList = document.querySelectorAll(".btn-op");
 const opBtnsList = Array.from(opBtnsNodeList);
 const equalsBtn = document.querySelector("#btn-equals");
+const clearBtn = document.querySelector("#on-ce");
+
 
 let inputs = {
   a: "0",
@@ -15,7 +17,14 @@ let inputs = {
 const operations = {
   addition: (a, b) => {return a + b},
   subtraction: (a, b) => {return a - b},
-  multiplication: (a, b) => {return a * b}
+  multiplication: (a, b) => {return a * b},
+  division: (a, b) => {
+    if (b === 0) {
+      return "nope!";
+    } else {
+      return a / b;
+    }
+  },
 }
 const opKeys = {
   "+": "addition",
@@ -35,8 +44,17 @@ function checkKey(e) {
   getInput(keyValue);
 };
 
-function initialSetup() {
+const clearAll = (a = "0", b = "0", operator = null) => {
   numbersDisplay.innerText = "0";
+  inputs = {
+    a,
+    operator,
+    b,
+  }
+}
+
+function initialSetup() {
+  clearAll();
 
   // Add eventListeners to Number inputs
   for (let btn of numBtnsList) {
@@ -90,14 +108,16 @@ const executeOperation = (inputs) => {
   const firstNumber = +inputs.a;
   const secondNumber = +inputs.b;
   const operation = inputs.operator
-  const result = operations[operation](firstNumber, secondNumber)
-  inputs.a = String(result);
-  inputs.b = "";
-  numbersDisplay.innerText = inputs.a;
-
+  const result = operations[operation](firstNumber, secondNumber);
+  inputs.a = result !== "nope!" ? String(result) : "0";
+  numbersDisplay.innerText = result !== "nope!" ? inputs.a : result;
+  inputs.b = "0";
+  inputs.operator = null;
+  console.log("current inputs:", inputs);
 };
 
 equalsBtn.addEventListener("click", () => executeOperation(inputs));
+clearBtn.addEventListener("click", () => clearAll());
 
 window.addEventListener("keydown", checkKey);
 
