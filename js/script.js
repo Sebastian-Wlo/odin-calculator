@@ -2,11 +2,12 @@ const numbersDisplay = document.querySelector("#numbers-display");
 
 const numBtnsNodeList = document.querySelectorAll(".btn-num");
 const numBtnsList = Array.from(numBtnsNodeList);
+console.log(numBtnsList)
 const opBtnsNodeList = document.querySelectorAll(".btn-op");
 const opBtnsList = Array.from(opBtnsNodeList);
 const equalsBtn = document.querySelector("#btn-equals");
 const clearBtn = document.querySelector("#on-ce");
-
+const decimalBtn = document.querySelector("#btn-dot");
 
 let inputs = {
   a: "0",
@@ -30,7 +31,7 @@ const opKeys = {
   "+": "addition",
   "-": "subtraction",
   "*": "multiplication",
-  "/": "division"
+  "/": "division",
 }
 
 function checkKey(e) {
@@ -75,9 +76,16 @@ function initialSetup() {
 
 function getInput(val) {
   const parsedVal = parseInt(val);
-  if (parsedVal || parsedVal === 0) {
+  console.log(parsedVal, val)
+  if (parsedVal || parsedVal === 0 || val === '.') {
     if (!inputs.operator && inputs.a.length < 9) {
       console.log("Int 1:", parsedVal);
+      if (val === '.' && inputs.a % 1 === 0) {
+        inputs.a += '.'
+        return
+      } else if (val === '.' && inputs.a % 1 !== 0) {
+        return
+      }
       if (inputs.a !== "0"){
         inputs.a += parsedVal;
       } else {
@@ -86,6 +94,12 @@ function getInput(val) {
       numbersDisplay.innerText = inputs.a
     } else if (inputs.operator && inputs.b.length < 9) {
       console.log("Int 2:", parsedVal);
+      if (val === '.' && inputs.b % 1 === 0) {
+        inputs.b += '.'
+        return
+      } else if (val === '.' && inputs.b % 1 !== 0) {
+        return
+      }
       if (inputs.b !== "0"){
         inputs.b += parsedVal;
       } else {
