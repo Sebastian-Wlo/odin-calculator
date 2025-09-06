@@ -1,6 +1,6 @@
 @font-face {
   font-family: segment7;
-  src: url("/fonts/Segment7Standard.otf");
+  src: url("../fonts/Segment7Standard.otf");
 }
 
 * {
@@ -10,7 +10,7 @@
 }
 
 body {
-  background-image: url("/img/svg/woodgrain_tileablev2.svg");
+  background-image: url("../img/svg/woodgrain_tileablev2.svg");
   --webkit-backdrop-filter: blur(1.2px) /* Fallback for Safari */
   backdrop-filter: blur(1.2px);
 }
