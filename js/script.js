@@ -92,8 +92,8 @@ function readInput(char) {
   } else if (inputs.b === "") {
     inputs.operator = char;
   } else {
-    inputs.operator = char;
     inputs.a = executeOperation();
+    inputs.operator = char;
     inputs.b = "";
   }
   console.log(inputs.a, inputs.b, inputs.operator);
