@@ -1,0 +1,5693 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 1778 2700"
+   width="1778"
+   height="2700"
+   id="svg512"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <!-- svg-source:excalidraw -->
+  <metadata
+     id="metadata1" />
+  <defs
+     id="defs1">
+    <style
+       class="style-fonts"
+       id="style1">
+      @font-face { font-family: Excalifont; src: url(data:font/woff2;base64,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); }
+      @font-face { font-family: Excalifont; src: url(data:font/woff2;base64,d09GMgABAAAAAAKwAA4AAAAABUgAAAJcAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhQbcBw0BmAANBEICoFEgTkLBgABNgIkAwgEIAWDGAcgG0YEyI7Cca/EMJli0hzijYentfb+7OyhGk2SdfMmJiVTKoRIaTQqGVLgfl4vX3BQyV8qhbkZuSuFqRO3bvDWrpqFqZv89iD/1fm0gItpLJAu0KVjEYUBdoEusbHIF1AXmKZzA7+RDDaCIz18jGJ1QKAREDEW9Sa5IJdXg6JA6aaMzgGlBzo1G5ReE0V5oISErxF6uaPzgE2hZIkfaiWdfAYowaoQbiem0DRKSs0B5oD2nKKiV6k2tac4YCtr4xzlCxAZoeUd3xA4xjxcRfF/u3LvGMV9AO+AeEtxQB82Egp0IgQ6kfqALAtisfpvf/DvSACi+g8JJJARWAC2AMiAWDgYHFZSnpAfWZGPvVOev9Oc4HWM1w7JRg/Bx7WKkfyI/IbeypKB7OC+TJRT1NjN1JTikMwgt717eHt6fB5Tdxr0nd193FWVjNAYlgz0ZnVmnHdqXCanoo7XlIRvvUCPv9cu8VAKGTNSVThHhtm07OAO0UF49+0sCMq/ZORP7rGqXgGLuN4CEAi2v2dl4sWdXtk84hHwW2boBcDf/EvFf+NfBflM2gOolUDwRquUIvD3pwwBjkxFEu8Y1Q9D8gMVkBAC8wBQ4xghMgd4dXnp0OmQTpp90oUJzXQ2JIkuzdLeomIIWFEqWaIcmdLkyyNiIkKqdEVyJKLFSEUTymRBxIIp8/XFjnzlKFMggxBiyRQF0WeJQrFl0C6Csm3NvUTyFcJRykYxlT3zrQXK0DKlyyCC6EtmAKGYo1hBkpRB6pkpaIlKmELc5ciBdFVY5FSA1EcVS5XCFAFU/6B0AAAAAA==); }
+      @font-face { font-family: Nunito; src: url(data:font/woff2;base64,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); }</style>
+  </defs>
+  <rect
+     x="0"
+     y="0"
+     width="1778"
+     height="2700"
+     fill="#ffffff"
+     id="rect1"
+     style="stroke-width:0.78301" />
+  <mask
+     id="mask4" />
+  <mask
+     id="mask9" />
+  <mask
+     id="mask11" />
+  <mask
+     id="mask13" />
+  <mask
+     id="mask15" />
+  <mask
+     id="mask18" />
+  <mask
+     id="mask20" />
+  <mask
+     id="mask22" />
+  <mask
+     id="mask24" />
+  <mask
+     id="mask26" />
+  <mask
+     id="mask28" />
+  <mask
+     id="mask30" />
+  <mask
+     id="mask32" />
+  <mask
+     id="mask34" />
+  <mask
+     id="mask36" />
+  <mask
+     id="mask38" />
+  <mask
+     id="mask40" />
+  <mask
+     id="mask42" />
+  <mask
+     id="mask44" />
+  <mask
+     id="mask46" />
+  <mask
+     id="mask48" />
+  <mask
+     id="mask50" />
+  <mask
+     id="mask52" />
+  <mask
+     id="mask55" />
+  <mask
+     id="mask57" />
+  <mask
+     id="mask59" />
+  <mask
+     id="mask61" />
+  <mask
+     id="mask63" />
+  <mask
+     id="mask65" />
+  <mask
+     id="mask67" />
+  <mask
+     id="mask69" />
+  <mask
+     id="mask71" />
+  <mask
+     id="mask73" />
+  <mask
+     id="mask75" />
+  <mask
+     id="mask78" />
+  <mask
+     id="mask80" />
+  <mask
+     id="mask82" />
+  <mask
+     id="mask84" />
+  <mask
+     id="mask86" />
+  <mask
+     id="mask88" />
+  <mask
+     id="mask90" />
+  <mask
+     id="mask92" />
+  <mask
+     id="mask94" />
+  <mask
+     id="mask96" />
+  <mask
+     id="mask98" />
+  <mask
+     id="mask101" />
+  <mask
+     id="mask103" />
+  <mask
+     id="mask105" />
+  <mask
+     id="mask107" />
+  <mask
+     id="mask109" />
+  <mask
+     id="mask111" />
+  <mask
+     id="mask113" />
+  <mask
+     id="mask115" />
+  <mask
+     id="mask117" />
+  <mask
+     id="mask119" />
+  <mask
+     id="mask121" />
+  <mask
+     id="mask124" />
+  <mask
+     id="mask126" />
+  <mask
+     id="mask128" />
+  <mask
+     id="mask130" />
+  <mask
+     id="mask132" />
+  <mask
+     id="mask134" />
+  <mask
+     id="mask136" />
+  <mask
+     id="mask138" />
+  <mask
+     id="mask140" />
+  <mask
+     id="mask142" />
+  <mask
+     id="mask144" />
+  <mask
+     id="mask147" />
+  <mask
+     id="mask149" />
+  <mask
+     id="mask156" />
+  <g
+     stroke-linecap="round"
+     transform="translate(308,670)"
+     id="g159">
+    <path
+       d="M 0,0 C 42.76,0 85.53,0 160,0 M 0,0 c 52.53,0 105.06,0 160,0 m 0,0 c 0,19.44 0,38.88 0,60 m 0,-60 c 0,19.82 0,39.64 0,60 m 0,0 C 96.55,60 33.1,60 0,60 m 160,0 C 121.09,60 82.17,60 0,60 m 0,0 C 0,38.09 0,16.18 0,0 M 0,60 C 0,41.98 0,23.95 0,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path158" />
+  </g>
+  <g
+     transform="translate(328.8881,690)"
+     id="g160">
+    <text
+       x="59.111946"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text159">executed = false</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(8,10)"
+     id="g161">
+    <path
+       d="M 0,0 C 576.6,0 1153.21,0 1760,0 M 0,0 c 522.81,0 1045.62,0 1760,0 m 0,0 c 0,229.31 0,458.63 0,1020 M 1760,0 c 0,251.03 0,502.06 0,1020 m 0,0 c -643.61,0 -1287.23,0 -1760,0 m 1760,0 c -584.94,0 -1169.88,0 -1760,0 m 0,0 C 0,750.05 0,480.09 0,0 M 0,1020 C 0,763 0,506.01 0,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path160" />
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(648,110)"
+     id="g162">
+    <path
+       d="M 81,0 160,81 81,160 0,81"
+       stroke="none"
+       stroke-width="0"
+       fill="#a5d8ff"
+       fill-rule="evenodd"
+       id="path161" />
+    <path
+       d="m 81,0 c 18.09,18.55 36.19,37.1 79,81 M 81,0 c 30.84,31.62 61.69,63.25 79,81 m 0,0 c -18.62,18.62 -37.24,37.24 -79,79 m 79,-79 c -23.22,23.22 -46.43,46.43 -79,79 m 0,0 C 49.48,129.26 17.95,98.51 0,81 m 81,79 C 51.5,131.23 22,102.46 0,81 m 0,0 C 25.79,55.21 51.59,29.41 81,0 M 0,81 C 22.53,58.47 45.05,35.95 81,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path162" />
+  </g>
+  <g
+     transform="translate(700.128,160)"
+     id="g164">
+    <text
+       x="27.871979"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text162">char =</text>
+    <text
+       x="27.871979"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text163">number</text>
+    <text
+       x="27.871979"
+       y="55.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text164">or &quot;.&quot;?</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(468,410)"
+     id="g165">
+    <path
+       d="M 81,0 160,81 81,160 0,81"
+       stroke="none"
+       stroke-width="0"
+       fill="#a5d8ff"
+       fill-rule="evenodd"
+       id="path164" />
+    <path
+       d="m 81,0 c 27.74,28.44 55.47,56.88 79,81 M 81,0 c 26.68,27.35 53.35,54.71 79,81 m 0,0 c -16.97,16.97 -33.94,33.94 -79,79 m 79,-79 c -28.38,28.38 -56.76,56.76 -79,79 m 0,0 C 58.99,138.53 36.98,117.07 0,81 m 81,79 C 53.37,133.05 25.74,106.11 0,81 m 0,0 C 23.64,57.36 47.27,33.73 81,0 M 0,81 C 25.09,55.91 50.18,30.82 81,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path165" />
+  </g>
+  <g
+     transform="translate(517.184,460)"
+     id="g167">
+    <text
+       x="30.815979"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text165">inputs.</text>
+    <text
+       x="30.815979"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text166">operator</text>
+    <text
+       x="30.815979"
+       y="55.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text167">= &quot;&quot; ?</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(608,30)"
+     id="g168">
+    <path
+       d="M 0,0 H 240 V 35 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#ffec99"
+       id="path167" />
+    <path
+       d="M 0,0 C 95.44,0 190.88,0 240,0 M 0,0 c 87.07,0 174.14,0 240,0 m 0,0 c 0,8.5 0,17 0,35 m 0,-35 c 0,9.75 0,19.49 0,35 m 0,0 C 176.96,35 113.92,35 0,35 m 240,0 C 157.8,35 75.6,35 0,35 m 0,0 C 0,26.46 0,17.91 0,0 M 0,35 C 0,24.66 0,14.32 0,0"
+       stroke="#1e1e1e"
+       stroke-width="4"
+       fill="none"
+       id="path168" />
+  </g>
+  <g
+     transform="translate(658.5001,35)"
+     id="g169">
+    <text
+       x="69.499916"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text168">readInput(char)</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     id="g172"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1850,66)"
+       id="g170">
+      <path
+         d="M 0,0 C 0,7.33 0,36.67 0,44 M 0,0 c 0,7.33 0,36.67 0,44"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path169" />
+    </g>
+    <g
+       transform="translate(1850,66)"
+       id="g171">
+      <path
+         d="M 0,44 -6.34,30.41 H 6.34 L 0,44"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path170" />
+      <path
+         d="M 0,44 C -1.86,40.02 -3.71,36.04 -6.34,30.41 M 0,44 C -2.02,39.67 -4.04,35.33 -6.34,30.41 m 0,0 c 3.94,0 7.89,0 12.68,0 m -12.68,0 c 2.95,0 5.91,0 12.68,0 m 0,0 C 4.48,34.39 2.63,38.37 0,44 M 6.34,30.41 C 3.94,35.55 1.54,40.69 0,44 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path171" />
+    </g>
+  </g>
+  <mask
+     id="mask172" />
+  <g
+     mask="url(#mask-34ZGbCopeXTq7ljwyA4v7)"
+     stroke-linecap="round"
+     id="g175"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1769.6113,190)"
+       id="g173">
+      <path
+         d="M 0,0 C -76.19,0 -152.37,0 -379.61,0 M 0,0 c -119.15,0 -238.29,0 -379.61,0 m 0,0 c 0,20.22 0,40.44 0,75.91 m 0,-75.91 c 0,19.04 0,38.08 0,75.91"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path172" />
+    </g>
+    <g
+       transform="translate(1769.6113,190)"
+       id="g174">
+      <path
+         d="m -379.61,75.91 -6.34,-13.6 h 12.68 l -6.34,13.6"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path173" />
+      <path
+         d="m -379.61,75.91 c -1.27,-2.73 -2.55,-5.46 -6.34,-13.6 m 6.34,13.6 c -1.99,-4.27 -3.98,-8.54 -6.34,-13.6 m 0,0 c 3.38,0 6.75,0 12.68,0 m -12.68,0 c 3.18,0 6.36,0 12.68,0 m 0,0 c -2.31,4.96 -4.62,9.91 -6.34,13.6 m 6.34,-13.6 c -2.24,4.8 -4.48,9.61 -6.34,13.6 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path174" />
+    </g>
+  </g>
+  <mask
+     id="mask-34ZGbCopeXTq7ljwyA4v7">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2249.2227"
+       height="365.90741"
+       id="rect175" />
+    <rect
+       x="1377.696"
+       y="180"
+       fill="#000000"
+       width="24.607986"
+       height="20"
+       opacity="1"
+       id="rect176" />
+  </mask>
+  <g
+     transform="translate(255.696,180)"
+     id="g176">
+    <text
+       x="12.303993"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text176">Yes</text>
+  </g>
+  <g
+     mask="url(#mask-q3qLqf56b3if-HGqVtiSf)"
+     stroke-linecap="round"
+     id="g179"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1933.2133,189.51999)"
+       id="g177">
+      <path
+         d="M 0,0 C 73.87,0.13 147.74,0.26 276.79,0.48 M 0,0 c 76.72,0.13 153.43,0.27 276.79,0.48 m 0,0 c 0,23.09 0,46.19 0,79.61 m 0,-79.61 c 0,21.45 0,42.91 0,79.61"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path176" />
+    </g>
+    <g
+       transform="translate(1933.2133,189.51999)"
+       id="g178">
+      <path
+         d="M 276.79,80.09 270.45,66.5 h 12.68 l -6.34,13.59"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path177" />
+      <path
+         d="m 276.79,80.09 c -1.7,-3.63 -3.39,-7.25 -6.34,-13.59 m 6.34,13.59 c -1.76,-3.77 -3.52,-7.53 -6.34,-13.59 m 0,0 c 3.68,0 7.35,0 12.68,0 m -12.68,0 c 3.41,0 6.83,0 12.68,0 m 0,0 c -2.44,5.23 -4.88,10.45 -6.34,13.59 m 6.34,-13.59 c -2.49,5.34 -4.99,10.68 -6.34,13.59 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path178" />
+    </g>
+  </g>
+  <mask
+     id="mask-q3qLqf56b3if-HGqVtiSf">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2310"
+       height="369.61133"
+       id="rect179" />
+    <rect
+       x="2199.592"
+       y="180"
+       fill="#000000"
+       width="20.815979"
+       height="20"
+       opacity="1"
+       id="rect180" />
+  </mask>
+  <g
+     transform="translate(1077.592,180)"
+     id="g180">
+    <text
+       x="10.40799"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text180">No</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(188,270)"
+     id="g181">
+    <path
+       d="M 81,0 160,81 81,160 0,81"
+       stroke="none"
+       stroke-width="0"
+       fill="#a5d8ff"
+       fill-rule="evenodd"
+       id="path180" />
+    <path
+       d="m 81,0 c 30.57,31.34 61.13,62.68 79,81 M 81,0 c 27.38,28.08 54.76,56.15 79,81 m 0,0 c -18.38,18.38 -36.76,36.76 -79,79 m 79,-79 c -30.97,30.97 -61.93,61.93 -79,79 m 0,0 C 61.24,140.73 41.48,121.45 0,81 m 81,79 C 55.08,134.72 29.15,109.43 0,81 m 0,0 C 20.32,60.68 40.64,40.36 81,0 M 0,81 C 27.62,53.38 55.23,25.77 81,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path181" />
+  </g>
+  <g
+     transform="translate(244.392,330)"
+     id="g182">
+    <text
+       x="23.607979"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text181">exe-</text>
+    <text
+       x="23.607979"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text182">cuted?</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(308,610)"
+     id="g183">
+    <path
+       d="M 0,0 H 160 V 60 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#b2f2bb"
+       id="path182" />
+    <path
+       d="M 0,0 C 33.95,0 67.9,0 160,0 M 0,0 c 44.81,0 89.62,0 160,0 m 0,0 c 0,13.94 0,27.87 0,60 m 0,-60 c 0,20.05 0,40.1 0,60 m 0,0 C 122.96,60 85.92,60 0,60 m 160,0 C 123.77,60 87.55,60 0,60 m 0,0 C 0,47.58 0,35.16 0,0 M 0,60 C 0,37.69 0,15.39 0,0"
+       stroke="#1e1e1e"
+       stroke-width="4"
+       fill="none"
+       id="path183" />
+  </g>
+  <g
+     transform="translate(321.9201,615)"
+     id="g184">
+    <text
+       x="66.079903"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text183">numToValue</text>
+    <text
+       x="66.079903"
+       y="44.080002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text184">(char, inputs.a)</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(628,610)"
+     id="g185">
+    <path
+       d="M 0,0 H 160 V 60 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#b2f2bb"
+       id="path184" />
+    <path
+       d="M 0,0 C 40.68,0 81.37,0 160,0 M 0,0 c 59.39,0 118.78,0 160,0 m 0,0 c 0,17.88 0,35.75 0,60 m 0,-60 c 0,12.92 0,25.85 0,60 m 0,0 C 98.96,60 37.91,60 0,60 m 160,0 C 113.67,60 67.34,60 0,60 m 0,0 C 0,38.5 0,17.01 0,0 M 0,60 C 0,36.88 0,13.76 0,0"
+       stroke="#1e1e1e"
+       stroke-width="4"
+       fill="none"
+       id="path185" />
+  </g>
+  <g
+     transform="translate(641.4401,615)"
+     id="g186">
+    <text
+       x="66.559906"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text185">numToValue</text>
+    <text
+       x="66.559906"
+       y="44.080002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text186">(char, inputs.b)</text>
+  </g>
+  <g
+     mask="url(#mask-SClPZDmEtsJbHDM19RK70)"
+     stroke-linecap="round"
+     id="g189"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1589.6113,490)"
+       id="g187">
+      <path
+         d="M 0,0 C -17.75,0 -35.51,0 -79.61,0 M 0,0 c -16.77,0 -33.54,0 -79.61,0 m 0,0 c 0,32.43 0,64.86 0,119 m 0,-119 c 0,31.9 0,63.81 0,119"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path186" />
+    </g>
+    <g
+       transform="translate(1589.6113,490)"
+       id="g188">
+      <path
+         d="m -79.61,119 -6.34,-13.59 h 12.68 L -79.61,119"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path187" />
+      <path
+         d="m -79.61,119 c -1.42,-3.03 -2.83,-6.06 -6.34,-13.59 m 6.34,13.59 c -1.34,-2.86 -2.67,-5.73 -6.34,-13.59 m 0,0 c 3.45,0 6.91,0 12.68,0 m -12.68,0 c 3.4,0 6.8,0 12.68,0 m 0,0 c -2.26,4.83 -4.51,9.66 -6.34,13.59 m 6.34,-13.59 c -1.59,3.4 -3.18,6.81 -6.34,13.59 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path188" />
+    </g>
+  </g>
+  <mask
+     id="mask-SClPZDmEtsJbHDM19RK70">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="1769.2227"
+       height="709"
+       id="rect189" />
+    <rect
+       x="1497.696"
+       y="480"
+       fill="#000000"
+       width="24.607986"
+       height="20"
+       opacity="1"
+       id="rect190" />
+  </mask>
+  <g
+     transform="translate(375.696,480)"
+     id="g190">
+    <text
+       x="12.303993"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text190">Yes</text>
+  </g>
+  <g
+     mask="url(#mask-Z-6T4jIb-6ouh2lW--Pt1)"
+     stroke-linecap="round"
+     id="g193"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1750.2336,489.82581)"
+       id="g191">
+      <path
+         d="M 0,0 C 21.58,0.05 43.16,0.09 84,0.18 M 0,0 c 24.07,0.05 48.15,0.11 84,0.18 m 0,0 C 83.73,33.46 83.45,66.75 83.03,118.17 M 84,0.18 c -0.31,38.27 -0.63,76.54 -0.97,117.99"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path190" />
+    </g>
+    <g
+       transform="translate(1750.2336,489.82581)"
+       id="g192">
+      <path
+         d="m 83.03,118.17 -6.23,-13.65 12.68,0.11 -6.45,13.54"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path191" />
+      <path
+         d="m 83.03,118.17 c -1.6,-3.5 -3.2,-7.01 -6.23,-13.65 m 6.23,13.65 c -1.79,-3.91 -3.57,-7.82 -6.23,-13.65 m 0,0 c 3.58,0.03 7.15,0.06 12.68,0.11 M 76.8,104.52 c 4.11,0.04 8.23,0.07 12.68,0.11 m 0,0 c -1.8,3.78 -3.61,7.57 -6.45,13.54 m 6.45,-13.54 c -1.33,2.79 -2.66,5.58 -6.45,13.54 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path192" />
+    </g>
+  </g>
+  <mask
+     id="mask-Z-6T4jIb-6ouh2lW--Pt1">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="1934.2335"
+       height="707.99701"
+       id="rect193" />
+    <rect
+       x="1823.8256"
+       y="480.00925"
+       fill="#000000"
+       width="20.815979"
+       height="20"
+       opacity="1"
+       id="rect194" />
+  </mask>
+  <g
+     transform="translate(701.8256,480.00924)"
+     id="g194">
+    <text
+       x="10.40799"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text194">No</text>
+  </g>
+  <g
+     mask="url(#mask-x-QnxgR4UrzUVigome8-G)"
+     stroke-linecap="round"
+     id="g197"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1474.6823,349.90038)"
+       id="g195">
+      <path
+         d="M 0,0 C 38.65,0 77.3,0 179.22,0 M 0,0 c 70.73,0 141.45,0 179.22,0 m 0,0 c 10.66,0 16,5.33 16,16 m -16,-16 c 10.66,0 16,5.33 16,16 m 0,0 c 0,16.73 0,33.47 0,43.51 m 0,-43.51 c 0,17.09 0,34.19 0,43.51"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path194" />
+    </g>
+    <g
+       transform="translate(1474.6823,349.90038)"
+       id="g196">
+      <path
+         d="m 195.22,59.51 -6.34,-13.6 h 12.68 l -6.34,13.6"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path195" />
+      <path
+         d="m 195.22,59.51 c -1.37,-2.93 -2.74,-5.87 -6.34,-13.6 m 6.34,13.6 c -2.5,-5.37 -5.01,-10.73 -6.34,-13.6 m 0,0 c 3.4,0 6.8,0 12.68,0 m -12.68,0 c 3.31,0 6.63,0 12.68,0 m 0,0 c -2.29,4.92 -4.59,9.83 -6.34,13.6 m 6.34,-13.6 c -1.35,2.9 -2.71,5.8 -6.34,13.6 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path196" />
+    </g>
+  </g>
+  <mask
+     id="mask-x-QnxgR4UrzUVigome8-G">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="1769.9"
+       height="509.40771"
+       id="rect197" />
+    <rect
+       x="1659.4921"
+       y="339.90039"
+       fill="#000000"
+       width="20.815979"
+       height="20"
+       opacity="1"
+       id="rect198" />
+  </mask>
+  <g
+     transform="translate(537.492,339.90038)"
+     id="g198">
+    <text
+       x="10.40799"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text198">No</text>
+  </g>
+  <g
+     mask="url(#mask-TkpgU0At-ce8ESXMUP-mN)"
+     stroke-linecap="round"
+     id="g201"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1311.4685,350)"
+       id="g199">
+      <path
+         d="M 0,0 C -25.15,0.35 -50.3,0.7 -81.47,1.13 M 0,0 c -31.65,0.44 -63.3,0.88 -81.47,1.13 m 0,0 c 0,20.62 0,41.24 0,77.87 m 0,-77.87 c 0,30.72 0,61.43 0,77.87"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path198" />
+    </g>
+    <g
+       transform="translate(1311.4685,350)"
+       id="g200">
+      <path
+         d="m -81.47,79 -6.34,-13.59 h 12.68 L -81.47,79"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path199" />
+      <path
+         d="m -81.47,79 c -1.96,-4.2 -3.91,-8.39 -6.34,-13.59 M -81.47,79 c -2.46,-5.28 -4.92,-10.56 -6.34,-13.59 m 0,0 c 3.36,0 6.72,0 12.68,0 m -12.68,0 c 5,0 10,0 12.68,0 m 0,0 c -1.98,4.24 -3.96,8.49 -6.34,13.59 m 6.34,-13.59 c -2.19,4.69 -4.38,9.39 -6.34,13.59 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path200" />
+    </g>
+  </g>
+  <mask
+     id="mask-TkpgU0At-ce8ESXMUP-mN">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="1492.937"
+       height="529"
+       id="rect201" />
+    <rect
+       x="1217.696"
+       y="341.13391"
+       fill="#000000"
+       width="24.607986"
+       height="20"
+       opacity="1"
+       id="rect202" />
+  </mask>
+  <g
+     transform="translate(95.696,341.13391)"
+     id="g202">
+    <text
+       x="12.303993"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text202">Yes</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(28,490)"
+     id="g203">
+    <path
+       d="M 0,0 H 160 V 85 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#b2f2bb"
+       id="path202" />
+    <path
+       d="M 0,0 C 47.02,0 94.04,0 160,0 M 0,0 c 62.27,0 124.54,0 160,0 m 0,0 c 0,30.96 0,61.92 0,85 m 0,-85 c 0,27.07 0,54.13 0,85 m 0,0 C 115.5,85 71,85 0,85 m 160,0 C 126.32,85 92.64,85 0,85 m 0,0 C 0,59.26 0,33.51 0,0 M 0,85 C 0,56.23 0,27.47 0,0"
+       stroke="#1e1e1e"
+       stroke-width="4"
+       fill="none"
+       id="path203" />
+  </g>
+  <g
+     transform="translate(41.9201,507.5)"
+     id="g204">
+    <text
+       x="66.079903"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text203">numToValue</text>
+    <text
+       x="66.079903"
+       y="44.080002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text204">(char, inputs.a)</text>
+  </g>
+  <g
+     mask="url(#mask-xKyXduuEtG4I0N34iXdDg)"
+     stroke-linecap="round"
+     id="g207"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2130,350)"
+       id="g205">
+      <path
+         d="M 0,0 C -24.88,0 -49.77,0 -80,0 M 0,0 c -18.64,0 -37.28,0 -80,0 m 0,0 c 0,23.44 0,46.87 0,80 m 0,-80 c 0,30.26 0,60.51 0,80"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path204" />
+    </g>
+    <g
+       transform="translate(2130,350)"
+       id="g206">
+      <path
+         d="m -80,80 -6.34,-13.59 h 12.68 L -80,80"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path205" />
+      <path
+         d="m -80,80 c -1.97,-4.23 -3.94,-8.46 -6.34,-13.59 M -80,80 c -1.48,-3.17 -2.95,-6.34 -6.34,-13.59 m 0,0 c 3.71,0 7.43,0 12.68,0 m -12.68,0 c 4.8,0 9.59,0 12.68,0 m 0,0 c -2.24,4.8 -4.48,9.6 -6.34,13.59 m 6.34,-13.59 C -75.84,71.08 -78.02,75.76 -80,80 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path206" />
+    </g>
+  </g>
+  <mask
+     id="mask-xKyXduuEtG4I0N34iXdDg">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2310"
+       height="530"
+       id="rect207" />
+    <rect
+       x="2037.696"
+       y="340"
+       fill="#000000"
+       width="24.607986"
+       height="20"
+       opacity="1"
+       id="rect208" />
+  </mask>
+  <g
+     transform="translate(915.696,340)"
+     id="g208">
+    <text
+       x="12.303993"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text208">Yes</text>
+  </g>
+  <g
+     mask="url(#mask-2Ret_wW4x455pCtJj8EC-)"
+     stroke-linecap="round"
+     id="g211"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2290,350)"
+       id="g209">
+      <path
+         d="M 0,0 C 31.96,0 63.93,0 120,0 M 0,0 c 30.1,0 60.2,0 120,0 m 0,0 c 0,21.87 0,43.73 0,60 m 0,-60 c 0,21.19 0,42.38 0,60"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path208" />
+    </g>
+    <g
+       transform="translate(2290,350)"
+       id="g210">
+      <path
+         d="m 120,60 -6.34,-13.59 h 12.68 L 120,60"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path209" />
+      <path
+         d="m 120,60 c -1.69,-3.62 -3.38,-7.24 -6.34,-13.59 M 120,60 c -1.59,-3.41 -3.18,-6.82 -6.34,-13.59 m 0,0 c 4.62,0 9.24,0 12.68,0 m -12.68,0 c 4.48,0 8.96,0 12.68,0 m 0,0 c -2.01,4.3 -4.02,8.61 -6.34,13.59 m 6.34,-13.59 C 124.66,50 122.99,53.59 120,60 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path210" />
+    </g>
+  </g>
+  <mask
+     id="mask-2Ret_wW4x455pCtJj8EC-">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2510"
+       height="510"
+       id="rect211" />
+    <rect
+       x="2399.592"
+       y="340"
+       fill="#000000"
+       width="20.815979"
+       height="20"
+       opacity="1"
+       id="rect212" />
+  </mask>
+  <g
+     transform="translate(1277.592,340)"
+     id="g212">
+    <text
+       x="10.40799"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text212">No</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1008,270)"
+     id="g213">
+    <path
+       d="M 81,0 160,81 81,160 0,81"
+       stroke="none"
+       stroke-width="0"
+       fill="#a5d8ff"
+       fill-rule="evenodd"
+       id="path212" />
+    <path
+       d="m 81,0 c 19.38,19.87 38.76,39.74 79,81 M 81,0 c 29.09,29.83 58.18,59.65 79,81 m 0,0 c -16.19,16.19 -32.38,32.38 -79,79 m 79,-79 c -23.61,23.61 -47.22,47.22 -79,79 m 0,0 C 52.38,132.09 23.77,104.18 0,81 m 81,79 C 54.07,133.74 27.15,107.48 0,81 m 0,0 C 24.15,56.85 48.29,32.71 81,0 M 0,81 C 16.57,64.43 33.14,47.86 81,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path213" />
+  </g>
+  <g
+     transform="translate(1065.632,330)"
+     id="g214">
+    <text
+       x="22.367981"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text213">char =</text>
+    <text
+       x="22.367981"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text214">&quot;=&quot;?</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(828,430)"
+     id="g215">
+    <path
+       d="M 0,0 H 200 V 60 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#b2f2bb"
+       id="path214" />
+    <path
+       d="M 0,0 C 64.02,0 128.05,0 200,0 M 0,0 c 49.78,0 99.56,0 200,0 m 0,0 c 0,23.6 0,47.21 0,60 m 0,-60 c 0,23.92 0,47.85 0,60 m 0,0 C 129.2,60 58.39,60 0,60 m 200,0 C 147.1,60 94.2,60 0,60 m 0,0 C 0,38.27 0,16.54 0,0 M 0,60 C 0,44.07 0,28.15 0,0"
+       stroke="#1e1e1e"
+       stroke-width="4"
+       fill="none"
+       id="path215" />
+  </g>
+  <g
+     transform="translate(840.8901,435)"
+     id="g216">
+    <text
+       x="87.109909"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text215">a =</text>
+    <text
+       x="87.109909"
+       y="44.080002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text216">executeOperation()</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1208,410)"
+     id="g217">
+    <path
+       d="M 81.03,-1.16 158.48,79.01 80.97,159.65 1.63,79.33"
+       stroke="none"
+       stroke-width="0"
+       fill="#a5d8ff"
+       fill-rule="evenodd"
+       id="path216" />
+    <path
+       d="m 81,0 c 22.48,24.15 45.92,47.34 79,81 M 81,0 c 23.29,23.85 45.76,46.67 79,81 m 0,0 c -24.24,23.64 -48.4,49.11 -79,79 m 79,-79 c -19.81,18.79 -38.65,38.63 -79,79 m 0,0 C 61.98,141.25 42.26,121.39 0,81 m 81,79 C 50.6,129.43 18.77,98.49 0,81 m 0,0 C 18.72,60.64 39.38,43.71 81,0 M 0,81 C 20.6,58.19 42.54,38.21 81,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path217" />
+  </g>
+  <g
+     transform="translate(1264.392,470)"
+     id="g218">
+    <text
+       x="23.607979"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text217">exe-</text>
+    <text
+       x="23.607979"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text218">cuted?</text>
+  </g>
+  <g
+     mask="url(#mask-_eMXcer0ma2QYCcXlq0u7)"
+     stroke-linecap="round"
+     id="g221"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2330.431,490)"
+       id="g219">
+      <path
+         d="M 0,0 C -23.33,0 -46.66,0 -80.43,0 M 0,0 c -21.67,0 -43.35,0 -80.43,0 m 0,0 c 0,46.15 0,92.3 0,120 m 0,-120 c 0,47.15 0,94.3 0,120"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path218" />
+    </g>
+    <g
+       transform="translate(2330.431,490)"
+       id="g220">
+      <path
+         d="m -80.43,120 -6.34,-13.59 h 12.68 L -80.43,120"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path219" />
+      <path
+         d="m -80.43,120 c -1.84,-3.94 -3.68,-7.89 -6.34,-13.59 m 6.34,13.59 c -1.71,-3.66 -3.42,-7.33 -6.34,-13.59 m 0,0 c 4.88,0 9.75,0 12.68,0 m -12.68,0 c 4.98,0 9.96,0 12.68,0 m 0,0 c -1.6,3.41 -3.19,6.83 -6.34,13.59 m 6.34,-13.59 c -1.41,3.02 -2.83,6.05 -6.34,13.59 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path220" />
+    </g>
+  </g>
+  <mask
+     id="mask-_eMXcer0ma2QYCcXlq0u7">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2510.8621"
+       height="710"
+       id="rect221" />
+    <rect
+       x="2237.696"
+       y="480"
+       fill="#000000"
+       width="24.607986"
+       height="20"
+       opacity="1"
+       id="rect222" />
+  </mask>
+  <g
+     transform="translate(1115.696,480)"
+     id="g222">
+    <text
+       x="12.303993"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text222">Yes</text>
+  </g>
+  <g
+     mask="url(#mask-eUVytEEoipPKwrlZ7eT3P)"
+     stroke-linecap="round"
+     id="g225"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2490,490)"
+       id="g223">
+      <path
+         d="M 0,0 C 32.7,0 65.41,0 120,0 M 0,0 c 32.17,0 64.34,0 120,0 m 0,0 c -0.21,70.89 -0.43,141.78 -0.6,199.34 M 120,0 c -0.15,49.95 -0.3,99.91 -0.6,199.34"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path222" />
+    </g>
+    <g
+       transform="translate(2490,490)"
+       id="g224">
+      <path
+         d="m 119.4,199.34 -6.3,-13.62 12.68,0.04 -6.38,13.58"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path223" />
+      <path
+         d="m 119.4,199.34 c -1.72,-3.71 -3.44,-7.42 -6.3,-13.62 m 6.3,13.62 c -1.69,-3.65 -3.38,-7.3 -6.3,-13.62 m 0,0 c 4.51,0.02 9.02,0.03 12.68,0.04 m -12.68,-0.04 c 3.18,0.01 6.35,0.02 12.68,0.04 m 0,0 c -2.07,4.4 -4.14,8.8 -6.38,13.58 m 6.38,-13.58 c -1.56,3.31 -3.11,6.61 -6.38,13.58 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path224" />
+    </g>
+  </g>
+  <mask
+     id="mask-eUVytEEoipPKwrlZ7eT3P">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2710"
+       height="789.33868"
+       id="rect225" />
+    <rect
+       x="2599.592"
+       y="480"
+       fill="#000000"
+       width="20.815979"
+       height="20"
+       opacity="1"
+       id="rect226" />
+  </mask>
+  <g
+     transform="translate(1477.592,480)"
+     id="g226">
+    <text
+       x="10.40799"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text226">No</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1008,610)"
+     id="g227">
+    <path
+       d="M 0,0 C 61,0 122,0 220,0 M 0,0 c 73.9,0 147.8,0 220,0 m 0,0 c 0,20.62 0,41.25 0,60 m 0,-60 c 0,13.02 0,26.04 0,60 m 0,0 C 140.88,60 61.75,60 0,60 m 220,0 C 167.94,60 115.88,60 0,60 m 0,0 C 0,42.24 0,24.47 0,0 M 0,60 C 0,38.71 0,17.42 0,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path226" />
+  </g>
+  <g
+     transform="translate(1038.6561,630)"
+     id="g228">
+    <text
+       x="79.343941"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text227">inputs.operator = char</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1408,610)"
+     id="g229">
+    <path
+       d="M 81,0 160,81 81,160 0,81"
+       stroke="none"
+       stroke-width="0"
+       fill="#a5d8ff"
+       fill-rule="evenodd"
+       id="path228" />
+    <path
+       d="m 81,0 c 30.57,31.34 61.14,62.69 79,81 M 81,0 c 16.95,17.38 33.9,34.76 79,81 m 0,0 c -19.94,19.94 -39.88,39.88 -79,79 m 79,-79 c -31.53,31.53 -63.05,63.05 -79,79 m 0,0 C 60.3,139.82 39.61,119.63 0,81 m 81,79 C 53.96,133.62 26.91,107.25 0,81 m 0,0 C 17.87,63.13 35.75,45.25 81,0 M 0,81 C 29.91,51.09 59.81,21.19 81,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path229" />
+  </g>
+  <g
+     transform="translate(1459.064,670)"
+     id="g230">
+    <text
+       x="28.935982"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text229">inputs.b</text>
+    <text
+       x="28.935982"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text230">= &quot;&quot;?</text>
+  </g>
+  <g
+     mask="url(#mask-mHGdb_dh7KIl1VdCO80pg)"
+     stroke-linecap="round"
+     id="g233"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2530,690)"
+       id="g231">
+      <path
+         d="M 0,0 C -16.92,0 -33.85,0 -60,0 M 0,0 c -19.46,0 -38.92,0 -60,0 m 0,0 c 0,22.36 0,44.73 0,80 m 0,-80 c 0,16.49 0,32.99 0,80"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path230" />
+    </g>
+    <g
+       transform="translate(2530,690)"
+       id="g232">
+      <path
+         d="m -60,80 -6.34,-13.59 h 12.68 L -60,80"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path231" />
+      <path
+         d="m -60,80 c -1.79,-3.83 -3.58,-7.67 -6.34,-13.59 M -60,80 c -2.06,-4.41 -4.11,-8.82 -6.34,-13.59 m 0,0 c 3.54,0 7.09,0 12.68,0 m -12.68,0 c 2.61,0 5.23,0 12.68,0 m 0,0 C -55.08,69.45 -56.5,72.49 -60,80 m 6.34,-13.59 C -54.96,69.2 -56.27,72 -60,80 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path232" />
+    </g>
+  </g>
+  <mask
+     id="mask-mHGdb_dh7KIl1VdCO80pg">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2690"
+       height="870"
+       id="rect233" />
+    <rect
+       x="2457.696"
+       y="680"
+       fill="#000000"
+       width="24.607986"
+       height="20"
+       opacity="1"
+       id="rect234" />
+  </mask>
+  <g
+     transform="translate(1335.696,680)"
+     id="g234">
+    <text
+       x="12.303993"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text234">Yes</text>
+  </g>
+  <g
+     mask="url(#mask-qi-PCf7JAxm2YISkvPxff)"
+     stroke-linecap="round"
+     id="g237"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2690.3887,690)"
+       id="g235">
+      <path
+         d="M 0,0 C 15.99,0 31.98,0 59.61,0 M 0,0 c 15.58,0 31.16,0 59.61,0 m 0,0 c 0,28.91 0,57.83 0,80 m 0,-80 c 0,17.05 0,34.1 0,80"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path234" />
+    </g>
+    <g
+       transform="translate(2690.3887,690)"
+       id="g236">
+      <path
+         d="M 59.61,80 53.27,66.41 H 65.95 L 59.61,80"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path235" />
+      <path
+         d="m 59.61,80 c -1.7,-3.65 -3.4,-7.29 -6.34,-13.59 M 59.61,80 C 57.95,76.45 56.3,72.89 53.27,66.41 m 0,0 c 4.58,0 9.17,0 12.68,0 m -12.68,0 c 2.7,0 5.41,0 12.68,0 m 0,0 C 64.27,70 62.6,73.6 59.61,80 M 65.95,66.41 C 64.11,70.35 62.28,74.29 59.61,80 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path236" />
+    </g>
+  </g>
+  <mask
+     id="mask-qi-PCf7JAxm2YISkvPxff">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2850"
+       height="870"
+       id="rect237" />
+    <rect
+       x="2740.144"
+       y="680"
+       fill="#000000"
+       width="19.71199"
+       height="20"
+       opacity="1"
+       id="rect238" />
+  </mask>
+  <g
+     transform="translate(1618.144,680)"
+     id="g238">
+    <text
+       x="9.8559952"
+       y="14.096"
+       font-family="Excalifont, Xiaolai, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text238">No</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(28,430)"
+     id="g239">
+    <path
+       d="M 0,0 H 160 V 60 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#b2f2bb"
+       id="path238" />
+    <path
+       d="M 0,0 C 44.56,0 89.12,0 160,0 M 0,0 c 42.03,0 84.05,0 160,0 m 0,0 c 0,20.55 0,41.1 0,60 m 0,-60 c 0,14.65 0,29.3 0,60 m 0,0 C 112.74,60 65.48,60 0,60 m 160,0 C 105.84,60 51.68,60 0,60 m 0,0 C 0,38.28 0,16.55 0,0 M 0,60 C 0,36.64 0,13.28 0,0"
+       stroke="#1e1e1e"
+       stroke-width="4"
+       fill="none"
+       id="path239" />
+  </g>
+  <g
+     transform="translate(65.9001,447.5)"
+     id="g240">
+    <text
+       x="42.099945"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text239">clearAll()</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(828,490)"
+     id="g241">
+    <path
+       d="M 0,0 C 44.93,2.23 91.48,-0.38 200,0 M 0,0 c 60.36,2.37 120.18,1.09 200,0 m 0,0 c 1.72,20.15 1.04,39.71 0,60 m 0,-60 c 0.07,14.57 0.14,29.49 0,60 m 0,0 C 159.36,61 119.69,58.25 0,60 m 200,0 C 135.21,60.97 71.27,59.81 0,60 m 0,0 C 1.79,45.5 1.45,31.91 0,0 M 0,60 C 0.9,42.42 0.93,26.37 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path240" />
+  </g>
+  <g
+     transform="translate(871.76,510)"
+     id="g242">
+    <text
+       x="56.239952"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text241">executed = true</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1008,670)"
+     id="g243">
+    <path
+       d="M 0,0 C 58.51,0 117.03,0 220,0 M 0,0 c 50.87,0 101.73,0 220,0 m 0,0 c 0,19.27 0,38.55 0,60 m 0,-60 c 0,23.95 0,47.91 0,60 m 0,0 C 142.97,60 65.93,60 0,60 m 220,0 C 132.14,60 44.29,60 0,60 m 0,0 C 0,39.37 0,18.73 0,0 M 0,60 C 0,37.63 0,15.26 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path242" />
+  </g>
+  <g
+     transform="translate(1073.608,690)"
+     id="g244">
+    <text
+       x="44.391968"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text243">inputs.b = &quot;&quot;</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1008,730)"
+     id="g245">
+    <path
+       d="M 0,0 C 60.07,0 120.14,0 220,0 M 0,0 c 80.27,0 160.53,0 220,0 m 0,0 c 0,19.63 0,39.26 0,60 m 0,-60 c 0,19.41 0,38.82 0,60 m 0,0 C 160.22,60 100.44,60 0,60 m 220,0 C 147.46,60 74.91,60 0,60 m 0,0 C 0,41.73 0,23.46 0,0 M 0,60 C 0,45.68 0,31.36 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path244" />
+  </g>
+  <g
+     transform="translate(1058.8881,750)"
+     id="g246">
+    <text
+       x="59.111946"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text245">executed = false</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(628,670)"
+     id="g247">
+    <path
+       d="M 0,0 C 59.5,0 119,0 160,0 M 0,0 c 37.96,0 75.92,0 160,0 m 0,0 c 0,21.1 0,42.2 0,60 m 0,-60 c 0,14.89 0,29.77 0,60 m 0,0 C 114.27,60 68.54,60 0,60 m 160,0 C 116.65,60 73.3,60 0,60 m 0,0 C 0,43.15 0,26.3 0,0 M 0,60 C 0,47.14 0,34.29 0,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path246" />
+  </g>
+  <g
+     transform="translate(648.8881,690)"
+     id="g248">
+    <text
+       x="59.111946"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text247">executed = false</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1248,770)"
+     id="g249">
+    <path
+       d="M 0,0 C 52.3,0 104.59,0 200,0 M 0,0 c 63.12,0 126.25,0 200,0 m 0,0 c 0,23.29 0,46.58 0,60 m 0,-60 c 0,20.6 0,41.2 0,60 m 0,0 C 121.63,60 43.26,60 0,60 m 200,0 C 129.64,60 59.28,60 0,60 m 0,0 C 0,45.37 0,30.75 0,0 M 0,60 C 0,40.37 0,20.73 0,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path248" />
+  </g>
+  <g
+     transform="translate(1268.6561,790)"
+     id="g250">
+    <text
+       x="79.343941"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text249">inputs.operator = char</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1548,770)"
+     id="g251">
+    <path
+       d="M 0,0 C 58.24,0 116.48,0 200,0 M 0,0 c 58.53,0 117.07,0 200,0 m 0,0 c 0,22.26 0,44.53 0,60 m 0,-60 c 0,15.88 0,31.77 0,60 m 0,0 C 131.47,60 62.95,60 0,60 m 200,0 C 148.56,60 97.12,60 0,60 m 0,0 C 0,38.53 0,17.06 0,0 M 0,60 C 0,40.28 0,20.55 0,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path250" />
+  </g>
+  <g
+     transform="translate(1568.6561,790)"
+     id="g252">
+    <text
+       x="79.343941"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text251">inputs.operator = char</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1548,830)"
+     id="g253">
+    <path
+       d="M 0,0 H 200 V 60 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#b2f2bb"
+       id="path252" />
+    <path
+       d="M 0,0 C 63.98,0 127.95,0 200,0 M 0,0 c 78.05,0 156.11,0 200,0 m 0,0 c 0,18.72 0,37.43 0,60 m 0,-60 c 0,18.33 0,36.65 0,60 m 0,0 C 122.87,60 45.73,60 0,60 m 200,0 C 135.25,60 70.51,60 0,60 m 0,0 C 0,47.98 0,35.96 0,0 M 0,60 C 0,36.96 0,13.93 0,0"
+       stroke="#1e1e1e"
+       stroke-width="4"
+       fill="none"
+       id="path253" />
+  </g>
+  <g
+     transform="translate(1560.8901,835)"
+     id="g254">
+    <text
+       x="87.109909"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text253">a =</text>
+    <text
+       x="87.109909"
+       y="44.080002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text254">executeOperation()</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1548,890)"
+     id="g255">
+    <path
+       d="M 0,0 C 68.6,0 137.19,0 200,0 M 0,0 c 50.63,0 101.26,0 200,0 m 0,0 c 0,20.51 0,41.01 0,60 m 0,-60 c 0,12.04 0,24.08 0,60 m 0,0 C 146.71,60 93.42,60 0,60 m 200,0 C 133.09,60 66.19,60 0,60 m 0,0 C 0,40.76 0,21.51 0,0 M 0,60 C 0,44.22 0,28.43 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path254" />
+  </g>
+  <g
+     transform="translate(1603.608,910)"
+     id="g256">
+    <text
+       x="44.391968"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text255">inputs.b = &quot;&quot;</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1308,2150)"
+     id="g257">
+    <path
+       d="M 0,0 H 280 V 40 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#b2f2bb"
+       id="path256" />
+    <path
+       d="M 0,0 C 99.29,0 198.58,0 280,0 M 0,0 c 104.68,0 209.35,0 280,0 m 0,0 c 0,15.29 0,30.57 0,40 m 0,-40 c 0,8.34 0,16.67 0,40 m 0,0 C 169.1,40 58.2,40 0,40 m 280,0 C 210.56,40 141.11,40 0,40 m 0,0 C 0,31.16 0,22.32 0,0 M 0,40 C 0,27.35 0,14.71 0,0"
+       stroke="#1e1e1e"
+       stroke-width="4"
+       fill="none"
+       id="path257" />
+  </g>
+  <g
+     transform="translate(1405.9001,2157.5)"
+     id="g258">
+    <text
+       x="42.099945"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text257">clearAll()</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     id="g261"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2570,2190)"
+       id="g259">
+      <path
+         d="M 0,0 C 0,6.5 0,32.5 0,39 M 0,0 c 0,6.5 0,32.5 0,39"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path258" />
+    </g>
+    <g
+       transform="translate(2570,2190)"
+       id="g260">
+      <path
+         d="M 0,39 -6.34,25.41 H 6.34 L 0,39"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path259" />
+      <path
+         d="M 0,39 C -2.14,34.42 -4.28,29.83 -6.34,25.41 M 0,39 C -2.32,34.02 -4.64,29.05 -6.34,25.41 m 0,0 c 2.85,0 5.7,0 12.68,0 m -12.68,0 c 3.84,0 7.67,0 12.68,0 m 0,0 C 4.99,28.29 3.65,31.18 0,39 M 6.34,25.41 C 4.2,29.98 2.07,34.56 0,39 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path260" />
+    </g>
+  </g>
+  <mask
+     id="mask261" />
+  <g
+     stroke-linecap="round"
+     transform="translate(1308,2230)"
+     id="g262">
+    <path
+       d="M 0,0 C 106.07,0 212.14,0 280,0 M 0,0 c 83.39,0 166.77,0 280,0 m 0,0 c 0,22.57 0,45.15 0,100 M 280,0 c 0,20.99 0,41.97 0,100 m 0,0 c -63.87,0 -127.74,0 -280,0 m 280,0 c -93.59,0 -187.17,0 -280,0 m 0,0 C 0,67.74 0,35.49 0,0 M 0,100 C 0,78.47 0,56.94 0,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path261" />
+  </g>
+  <g
+     transform="translate(1377.6561,2250)"
+     id="g264">
+    <text
+       x="70.343948"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text262">inputs.a = &quot;&quot;,</text>
+    <text
+       x="70.343948"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text263">inputs.b = &quot;&quot;,</text>
+    <text
+       x="70.343948"
+       y="55.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text264">inputs.operator = &quot;&quot;</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1228,2130)"
+     id="g265">
+    <path
+       d="M 0,0 C 149.53,0 299.07,0 440,0 M 0,0 c 148.92,0 297.84,0 440,0 m 0,0 c 0,94.82 0,189.63 0,260 M 440,0 c 0,85.52 0,171.05 0,260 m 0,0 c -127.64,0 -255.28,0 -440,0 m 440,0 c -147.07,0 -294.14,0 -440,0 m 0,0 C 0,181.96 0,103.92 0,0 M 0,260 C 0,202.43 0,144.85 0,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path264" />
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1308,2330)"
+     id="g266">
+    <path
+       d="M 0,0 H 280 V 40 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#b2f2bb"
+       id="path265" />
+    <path
+       d="M 0,0 C 62.67,0 125.35,0 280,0 M 0,0 c 77.3,0 154.61,0 280,0 m 0,0 c 0,14.03 0,28.06 0,40 m 0,-40 c 0,13.33 0,26.66 0,40 m 0,0 C 184.78,40 89.56,40 0,40 m 280,0 C 184.14,40 88.29,40 0,40 m 0,0 C 0,26.47 0,12.93 0,0 M 0,40 C 0,24.73 0,9.46 0,0"
+       stroke="#1e1e1e"
+       stroke-width="4"
+       fill="none"
+       id="path266" />
+  </g>
+  <g
+     transform="translate(1347.8001,2337.5)"
+     id="g267">
+    <text
+       x="100.19987"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text266">displayValue(inputs.a)</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(528,1090)"
+     id="g268">
+    <path
+       d="M 0,0 H 160 V 60 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#b2f2bb"
+       id="path267" />
+    <path
+       d="M 0,0 C 44.3,0 88.6,0 160,0 M 0,0 c 56.43,0 112.85,0 160,0 m 0,0 c 0,14.61 0,29.22 0,60 m 0,-60 c 0,19.61 0,39.22 0,60 m 0,0 C 121.69,60 83.38,60 0,60 m 160,0 C 127.81,60 95.62,60 0,60 m 0,0 C 0,46.98 0,33.96 0,0 M 0,60 C 0,47.93 0,35.87 0,0"
+       stroke="#1e1e1e"
+       stroke-width="4"
+       fill="none"
+       id="path268" />
+  </g>
+  <g
+     transform="translate(551.43,1095)"
+     id="g269">
+    <text
+       x="56.569954"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text268">numToValue</text>
+    <text
+       x="56.569954"
+       y="44.080002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text269">(char, input)</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     id="g272"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1730,1150)"
+       id="g270">
+      <path
+         d="M 0,0 C 0,6.5 0,32.5 0,39 M 0,0 c 0,6.5 0,32.5 0,39"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path269" />
+    </g>
+    <g
+       transform="translate(1730,1150)"
+       id="g271">
+      <path
+         d="M 0,39 -6.34,25.41 H 6.34 L 0,39"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path270" />
+      <path
+         d="M 0,39 C -1.71,35.33 -3.43,31.65 -6.34,25.41 M 0,39 C -1.37,36.07 -2.73,33.14 -6.34,25.41 m 0,0 c 2.93,0 5.86,0 12.68,0 m -12.68,0 c 4.25,0 8.51,0 12.68,0 m 0,0 C 4.04,30.33 1.75,35.25 0,39 M 6.34,25.41 C 4.53,29.29 2.72,33.17 0,39 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path271" />
+    </g>
+  </g>
+  <mask
+     id="mask272" />
+  <g
+     stroke-linecap="round"
+     transform="translate(528,1290)"
+     id="g273">
+    <path
+       d="M 81,0 160,81 81,160 0,81"
+       stroke="none"
+       stroke-width="0"
+       fill="#a5d8ff"
+       fill-rule="evenodd"
+       id="path272" />
+    <path
+       d="m 81,0 c 25.32,25.96 50.63,51.92 79,81 M 81,0 c 27.58,28.28 55.16,56.55 79,81 m 0,0 c -27.62,27.62 -55.23,55.23 -79,79 m 79,-79 c -20.61,20.61 -41.23,41.23 -79,79 m 0,0 C 61.7,141.18 42.41,122.36 0,81 m 81,79 C 51.23,130.97 21.46,101.93 0,81 m 0,0 C 27.73,53.27 55.46,25.54 81,0 M 0,81 C 27.08,53.92 54.17,26.83 81,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path273" />
+  </g>
+  <g
+     transform="translate(577.152,1350)"
+     id="g274">
+    <text
+       x="30.847969"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text273">char = </text>
+    <text
+       x="30.847969"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text274">&quot;.&quot; ||  &quot;,&quot;?</text>
+  </g>
+  <g
+     mask="url(#mask-FoxghEzt1-E5m0jcEEVgU)"
+     stroke-linecap="round"
+     id="g277"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1650,1370)"
+       id="g275">
+      <path
+         d="M 0,0 C -93.16,0 -186.32,0 -240,0 M 0,0 c -64.7,0 -129.39,0 -240,0 m 0,0 c 0,31.14 0,62.29 0,79.61 M -240,0 c 0,18.52 0,37.04 0,79.61"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path274" />
+    </g>
+    <g
+       transform="translate(1650,1370)"
+       id="g276">
+      <path
+         d="m -240,79.61 -6.34,-13.59 h 12.68 L -240,79.61"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path275" />
+      <path
+         d="m -240,79.61 c -2.46,-5.28 -4.92,-10.55 -6.34,-13.59 m 6.34,13.59 c -1.71,-3.66 -3.42,-7.33 -6.34,-13.59 m 0,0 c 4.96,0 9.92,0 12.68,0 m -12.68,0 c 2.95,0 5.9,0 12.68,0 m 0,0 c -1.97,4.22 -3.94,8.45 -6.34,13.59 m 6.34,-13.59 c -1.88,4.03 -3.76,8.06 -6.34,13.59 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path276" />
+    </g>
+  </g>
+  <mask
+     id="mask-FoxghEzt1-E5m0jcEEVgU">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="1990"
+       height="1549.6113"
+       id="rect277" />
+    <rect
+       x="1397.696"
+       y="1360"
+       fill="#000000"
+       width="24.607986"
+       height="20"
+       opacity="1"
+       id="rect278" />
+  </mask>
+  <g
+     transform="translate(275.696,1360)"
+     id="g278">
+    <text
+       x="12.303993"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text278">Yes</text>
+  </g>
+  <g
+     mask="url(#mask-I41fYFqOQmUbGwXvJV7I0)"
+     stroke-linecap="round"
+     id="g281"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1810,1370)"
+       id="g279">
+      <path
+         d="M 0,0 C 83.01,0 166.02,0 280,0 M 0,0 c 104.32,0 208.64,0 280,0 m 0,0 c 0,28.8 0,57.6 0,79.61 M 280,0 c 0,19.98 0,39.96 0,79.61"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path278" />
+    </g>
+    <g
+       transform="translate(1810,1370)"
+       id="g280">
+      <path
+         d="m 280,79.61 -6.34,-13.59 h 12.68 L 280,79.61"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path279" />
+      <path
+         d="m 280,79.61 c -1.88,-4.03 -3.76,-8.06 -6.34,-13.59 M 280,79.61 c -2.36,-5.06 -4.72,-10.13 -6.34,-13.59 m 0,0 c 4.59,0 9.17,0 12.68,0 m -12.68,0 c 3.18,0 6.36,0 12.68,0 m 0,0 c -2.26,4.84 -4.51,9.68 -6.34,13.59 m 6.34,-13.59 c -1.68,3.59 -3.36,7.19 -6.34,13.59 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path280" />
+    </g>
+  </g>
+  <mask
+     id="mask-I41fYFqOQmUbGwXvJV7I0">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2190"
+       height="1549.6113"
+       id="rect281" />
+    <rect
+       x="2079.592"
+       y="1360"
+       fill="#000000"
+       width="20.815979"
+       height="20"
+       opacity="1"
+       id="rect282" />
+  </mask>
+  <g
+     transform="translate(957.592,1360)"
+     id="g282">
+    <text
+       x="10.40799"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text282">No</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(208,1450)"
+     id="g283">
+    <path
+       d="M 81,0 160,81 81,160 0,81"
+       stroke="none"
+       stroke-width="0"
+       fill="#a5d8ff"
+       fill-rule="evenodd"
+       id="path282" />
+    <path
+       d="m 81,0 c 30.32,31.09 60.64,62.18 79,81 M 81,0 c 26.07,26.73 52.14,53.46 79,81 m 0,0 c -25.9,25.9 -51.81,51.81 -79,79 m 79,-79 c -16.06,16.06 -32.12,32.12 -79,79 m 0,0 C 63.41,142.84 45.82,125.69 0,81 m 81,79 C 52.68,132.38 24.36,104.76 0,81 m 0,0 C 26.17,54.83 52.34,28.66 81,0 M 0,81 C 22.29,58.71 44.58,36.42 81,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path283" />
+  </g>
+  <g
+     transform="translate(256.856,1510)"
+     id="g284">
+    <text
+       x="31.143974"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text283">input = ''</text>
+    <text
+       x="31.143974"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text284">?</text>
+  </g>
+  <g
+     mask="url(#mask-0GxgQExS5sWw-E7ozEBOW)"
+     stroke-linecap="round"
+     id="g287"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1330,1530)"
+       id="g285">
+      <path
+         d="M 0,0 C -19.46,0 -38.91,0 -80,0 M 0,0 c -18.14,0 -36.28,0 -80,0 m 0,0 c 0,24.67 0,49.33 0,119 M -80,0 c 0,39.62 0,79.24 0,119"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path284" />
+    </g>
+    <g
+       transform="translate(1330,1530)"
+       id="g286">
+      <path
+         d="m -80,119 -6.34,-13.59 h 12.68 L -80,119"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path285" />
+      <path
+         d="m -80,119 c -1.54,-3.31 -3.08,-6.61 -6.34,-13.59 M -80,119 c -1.44,-3.08 -2.87,-6.17 -6.34,-13.59 m 0,0 c 2.63,0 5.26,0 12.68,0 m -12.68,0 c 4.22,0 8.44,0 12.68,0 m 0,0 c -1.52,3.25 -3.04,6.51 -6.34,13.59 m 6.34,-13.59 c -1.81,3.88 -3.62,7.76 -6.34,13.59 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path286" />
+    </g>
+  </g>
+  <mask
+     id="mask-0GxgQExS5sWw-E7ozEBOW">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="1510"
+       height="1749"
+       id="rect287" />
+    <rect
+       x="1237.696"
+       y="1520"
+       fill="#000000"
+       width="24.607986"
+       height="20"
+       opacity="1"
+       id="rect288" />
+  </mask>
+  <g
+     transform="translate(115.696,1520)"
+     id="g288">
+    <text
+       x="12.303993"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text288">Yes</text>
+  </g>
+  <g
+     mask="url(#mask-nru-toTtxgdEXyESPkare)"
+     stroke-linecap="round"
+     id="g291"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1490,1530)"
+       id="g289">
+      <path
+         d="M 0,0 C 20.77,0.05 41.53,0.09 79.77,0.17 M 0,0 c 29.66,0.06 59.32,0.13 79.77,0.17 m 0,0 c 0.05,19.2 0.11,38.39 0.23,79.44 M 79.77,0.17 c 0.06,21.08 0.12,42.16 0.23,79.44"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path288" />
+    </g>
+    <g
+       transform="translate(1490,1530)"
+       id="g290">
+      <path
+         d="M 80,79.61 73.62,66.04 86.3,66 80,79.61"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path289" />
+      <path
+         d="M 80,79.61 C 78.34,76.08 76.68,72.54 73.62,66.04 M 80,79.61 C 77.63,74.56 75.25,69.52 73.62,66.04 m 0,0 C 76.68,66.03 79.75,66.02 86.3,66 M 73.62,66.04 C 76.98,66.03 80.35,66.02 86.3,66 m 0,0 C 84.29,70.33 82.29,74.67 80,79.61 M 86.3,66 C 83.86,71.28 81.41,76.55 80,79.61 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path290" />
+    </g>
+  </g>
+  <mask
+     id="mask-nru-toTtxgdEXyESPkare">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="1669.9989"
+       height="1709.6123"
+       id="rect291" />
+    <rect
+       x="1559.3585"
+       y="1520.1742"
+       fill="#000000"
+       width="20.815979"
+       height="20"
+       opacity="1"
+       id="rect292" />
+  </mask>
+  <g
+     transform="translate(437.3585,1520.1742)"
+     id="g292">
+    <text
+       x="10.40799"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text292">No</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(508,1190)"
+     id="g293">
+    <path
+       d="M 0,0 C 68.71,0 137.41,0 200,0 M 0,0 c 65.17,0 130.35,0 200,0 m 0,0 c 0,13.2 0,26.41 0,60 m 0,-60 c 0,15.01 0,30.01 0,60 m 0,0 C 132.1,60 64.21,60 0,60 m 200,0 C 123.41,60 46.82,60 0,60 m 0,0 C 0,47.58 0,35.16 0,0 M 0,60 C 0,44.81 0,29.61 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path292" />
+  </g>
+  <g
+     transform="translate(558.776,1210)"
+     id="g294">
+    <text
+       x="49.223961"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text293">returnVal = &quot;&quot;</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     id="g297"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1730,1250)"
+       id="g295">
+      <path
+         d="M 0,0 C 0,6.5 0,32.5 0,39 M 0,0 c 0,6.5 0,32.5 0,39"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path294" />
+    </g>
+    <g
+       transform="translate(1730,1250)"
+       id="g296">
+      <path
+         d="M 0,39 -6.34,25.41 H 6.34 L 0,39"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path295" />
+      <path
+         d="M 0,39 C -2.04,34.63 -4.08,30.25 -6.34,25.41 M 0,39 C -2.29,34.1 -4.57,29.19 -6.34,25.41 m 0,0 c 4.08,0 8.15,0 12.68,0 m -12.68,0 c 3.24,0 6.49,0 12.68,0 m 0,0 C 4.32,29.74 2.29,34.08 0,39 M 6.34,25.41 C 4.2,29.99 2.06,34.58 0,39 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path296" />
+    </g>
+  </g>
+  <mask
+     id="mask297" />
+  <g
+     stroke-linecap="round"
+     transform="translate(28,1650)"
+     id="g298">
+    <path
+       d="M 0,0 C 66.97,0 133.94,0 200,0 M 0,0 c 46.79,0 93.59,0 200,0 m 0,0 c 0,23.73 0,47.46 0,60 m 0,-60 c 0,20.7 0,41.4 0,60 m 0,0 c -41.15,0 -82.3,0 -200,0 m 200,0 C 121.48,60 42.96,60 0,60 m 0,0 C 0,47.19 0,34.38 0,0 M 0,60 C 0,43.11 0,26.22 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path297" />
+  </g>
+  <g
+     transform="translate(72.112,1670)"
+     id="g299">
+    <text
+       x="55.887955"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text298">returnVal = &quot;0.&quot;</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(368,1610)"
+     id="g300">
+    <path
+       d="M 81,0 160,81 81,160 0,81"
+       stroke="none"
+       stroke-width="0"
+       fill="#a5d8ff"
+       fill-rule="evenodd"
+       id="path299" />
+    <path
+       d="m 81,0 c 15.99,16.39 31.98,32.79 79,81 M 81,0 c 20.76,21.28 41.51,42.56 79,81 m 0,0 c -18.41,18.41 -36.81,36.81 -79,79 m 79,-79 c -17.86,17.86 -35.72,35.72 -79,79 m 0,0 C 63.32,142.76 45.64,125.51 0,81 m 81,79 C 57.14,136.73 33.27,113.45 0,81 m 0,0 C 29.34,51.66 58.68,22.32 81,0 M 0,81 C 17.59,63.41 35.18,45.82 81,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path300" />
+  </g>
+  <g
+     transform="translate(418.048,1660)"
+     id="g302">
+    <text
+       x="29.951973"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text300">input</text>
+    <text
+       x="29.951973"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text301">includes</text>
+    <text
+       x="29.951973"
+       y="55.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text302">''.&quot; ?</text>
+  </g>
+  <g
+     mask="url(#mask-lYnsbz4WC9NucYcQEqgTa)"
+     stroke-linecap="round"
+     id="g305"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1490,1690)"
+       id="g303">
+      <path
+         d="M 0,0 C -16.68,0 -33.37,0 -80,0 M 0,0 c -22.73,0 -45.46,0 -80,0 m 0,0 c 0,42.48 0,84.96 0,119 M -80,0 c 0,30.59 0,61.19 0,119"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path302" />
+    </g>
+    <g
+       transform="translate(1490,1690)"
+       id="g304">
+      <path
+         d="m -80,119 -6.34,-13.59 h 12.68 L -80,119"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path303" />
+      <path
+         d="m -80,119 c -1.32,-2.83 -2.64,-5.67 -6.34,-13.59 M -80,119 c -1.8,-3.86 -3.6,-7.72 -6.34,-13.59 m 0,0 c 4.53,0 9.05,0 12.68,0 m -12.68,0 c 3.26,0 6.52,0 12.68,0 m 0,0 c -1.82,3.9 -3.65,7.81 -6.34,13.59 m 6.34,-13.59 C -76,110.43 -78.34,115.45 -80,119 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path304" />
+    </g>
+  </g>
+  <mask
+     id="mask-lYnsbz4WC9NucYcQEqgTa">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="1670"
+       height="1909"
+       id="rect305" />
+    <rect
+       x="1397.696"
+       y="1680"
+       fill="#000000"
+       width="24.607986"
+       height="20"
+       opacity="1"
+       id="rect306" />
+  </mask>
+  <g
+     transform="translate(275.696,1680)"
+     id="g306">
+    <text
+       x="12.303993"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text306">Yes</text>
+  </g>
+  <g
+     mask="url(#mask-54hZWrGoh7EZPamyTW2X7)"
+     stroke-linecap="round"
+     id="g309"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1650,1690)"
+       id="g307">
+      <path
+         d="M 0,0 C 17.58,0.04 35.16,0.08 79.77,0.17 M 0,0 c 22.26,0.05 44.53,0.1 79.77,0.17 m 0,0 C 79.4,44.78 79.03,89.39 78.8,118.16 M 79.77,0.17 C 79.53,28.85 79.29,57.52 78.8,118.16"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path306" />
+    </g>
+    <g
+       transform="translate(1650,1690)"
+       id="g308">
+      <path
+         d="m 78.8,118.16 -6.23,-13.64 12.68,0.1 -6.45,13.54"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path307" />
+      <path
+         d="m 78.8,118.16 c -1.38,-3.01 -2.75,-6.01 -6.23,-13.64 m 6.23,13.64 c -1.74,-3.81 -3.48,-7.62 -6.23,-13.64 m 0,0 c 4.79,0.04 9.59,0.07 12.68,0.1 m -12.68,-0.1 c 3.08,0.02 6.16,0.05 12.68,0.1 m 0,0 c -2.39,5 -4.77,10.01 -6.45,13.54 m 6.45,-13.54 c -1.91,4.01 -3.82,8.02 -6.45,13.54 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path308" />
+    </g>
+  </g>
+  <mask
+     id="mask-54hZWrGoh7EZPamyTW2X7">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="1829.7665"
+       height="1908.162"
+       id="rect309" />
+    <rect
+       x="1719.3585"
+       y="1680.1742"
+       fill="#000000"
+       width="20.815979"
+       height="20"
+       opacity="1"
+       id="rect310" />
+  </mask>
+  <g
+     transform="translate(597.3585,1680.1742)"
+     id="g310">
+    <text
+       x="10.40799"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text310">No</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(188,1810)"
+     id="g311">
+    <path
+       d="M 0,0 C 73.07,0 146.15,0 200,0 M 0,0 c 68.32,0 136.63,0 200,0 m 0,0 c 0,22.09 0,44.17 0,60 m 0,-60 c 0,20.64 0,41.27 0,60 m 0,0 C 143.45,60 86.91,60 0,60 m 200,0 c -46.35,0 -92.71,0 -200,0 m 0,0 C 0,47.9 0,35.81 0,0 M 0,60 C 0,40.41 0,20.82 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path310" />
+  </g>
+  <g
+     transform="translate(209.3841,1830)"
+     id="g312">
+    <text
+       x="78.615936"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text311">returnVal = input + &quot;.&quot;</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(508,1810)"
+     id="g313">
+    <path
+       d="M 0,0 C 64.92,0 129.83,0 200,0 M 0,0 c 58.86,0 117.72,0 200,0 m 0,0 c 0,12.17 0,24.35 0,60 m 0,-60 c 0,15.22 0,30.45 0,60 m 0,0 C 130.41,60 60.82,60 0,60 m 200,0 C 132.35,60 64.71,60 0,60 m 0,0 C 0,46.85 0,33.7 0,0 M 0,60 C 0,46.01 0,32.01 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path312" />
+  </g>
+  <g
+     transform="translate(546.704,1830)"
+     id="g314">
+    <text
+       x="61.295952"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text313">returnVal = input</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(888,1450)"
+     id="g315">
+    <path
+       d="M 81,0 160,81 81,160 0,81"
+       stroke="none"
+       stroke-width="0"
+       fill="#a5d8ff"
+       fill-rule="evenodd"
+       id="path314" />
+    <path
+       d="m 81,0 c 22.69,23.26 45.38,46.53 79,81 M 81,0 c 29.95,30.71 59.9,61.42 79,81 m 0,0 c -31.04,31.04 -62.08,62.08 -79,79 m 79,-79 c -15.94,15.94 -31.89,31.89 -79,79 m 0,0 C 63.46,142.9 45.93,125.8 0,81 m 81,79 C 53.06,132.75 25.11,105.49 0,81 m 0,0 C 27.43,53.57 54.87,26.13 81,0 M 0,81 C 30.45,50.55 60.89,20.11 81,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path315" />
+  </g>
+  <g
+     transform="translate(936.08,1510)"
+     id="g316">
+    <text
+       x="31.919968"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text315">input = </text>
+    <text
+       x="31.919968"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text316">&quot;0&quot; ||  &quot;&quot;?</text>
+  </g>
+  <g
+     mask="url(#mask-0819A2KD9kQnOFeZGrYkS)"
+     stroke-linecap="round"
+     id="g319"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2010,1530)"
+       id="g317">
+      <path
+         d="M 0,0 C -25.4,0 -50.81,0 -80,0 M 0,0 c -20.16,0 -40.32,0 -80,0 m 0,0 c 0,44.28 0,88.55 0,119 M -80,0 c 0,32.23 0,64.46 0,119"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path316" />
+    </g>
+    <g
+       transform="translate(2010,1530)"
+       id="g318">
+      <path
+         d="m -80,119 -6.34,-13.59 h 12.68 L -80,119"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path317" />
+      <path
+         d="m -80,119 c -2.01,-4.32 -4.03,-8.63 -6.34,-13.59 M -80,119 c -1.6,-3.43 -3.2,-6.85 -6.34,-13.59 m 0,0 c 4.72,0 9.44,0 12.68,0 m -12.68,0 c 3.43,0 6.87,0 12.68,0 m 0,0 c -1.42,3.03 -2.83,6.07 -6.34,13.59 m 6.34,-13.59 c -1.56,3.33 -3.11,6.66 -6.34,13.59 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path318" />
+    </g>
+  </g>
+  <mask
+     id="mask-0819A2KD9kQnOFeZGrYkS">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2190"
+       height="1749"
+       id="rect319" />
+    <rect
+       x="1917.696"
+       y="1520"
+       fill="#000000"
+       width="24.607986"
+       height="20"
+       opacity="1"
+       id="rect320" />
+  </mask>
+  <g
+     transform="translate(795.696,1520)"
+     id="g320">
+    <text
+       x="12.303993"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text320">Yes</text>
+  </g>
+  <g
+     mask="url(#mask-K-nWwpXrSoq0C2Mk6AnYE)"
+     stroke-linecap="round"
+     id="g323"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2170,1530)"
+       id="g321">
+      <path
+         d="M 0,0 C 18.04,0.04 36.09,0.08 79.77,0.17 M 0,0 c 20.3,0.04 40.59,0.09 79.77,0.17 m 0,0 C 79.53,28.43 79.3,56.68 78.8,118.16 M 79.77,0.17 C 79.49,34.29 79.21,68.41 78.8,118.16"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path320" />
+    </g>
+    <g
+       transform="translate(2170,1530)"
+       id="g322">
+      <path
+         d="m 78.8,118.16 -6.23,-13.64 12.68,0.1 -6.45,13.54"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path321" />
+      <path
+         d="m 78.8,118.16 c -1.41,-3.08 -2.82,-6.17 -6.23,-13.64 m 6.23,13.64 c -1.59,-3.47 -3.17,-6.94 -6.23,-13.64 m 0,0 c 3.03,0.02 6.07,0.05 12.68,0.1 m -12.68,-0.1 c 3.66,0.03 7.33,0.06 12.68,0.1 m 0,0 c -1.71,3.58 -3.42,7.17 -6.45,13.54 m 6.45,-13.54 c -2.37,4.98 -4.75,9.95 -6.45,13.54 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path322" />
+    </g>
+  </g>
+  <mask
+     id="mask-K-nWwpXrSoq0C2Mk6AnYE">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2349.7664"
+       height="1748.162"
+       id="rect323" />
+    <rect
+       x="2239.3584"
+       y="1520.1742"
+       fill="#000000"
+       width="20.815979"
+       height="20"
+       opacity="1"
+       id="rect324" />
+  </mask>
+  <g
+     transform="translate(1117.3585,1520.1742)"
+     id="g324">
+    <text
+       x="10.40799"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text324">No</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(708,1650)"
+     id="g325">
+    <path
+       d="M 0,0 C 67.15,0 134.29,0 200,0 M 0,0 c 54.15,0 108.3,0 200,0 m 0,0 c 0,16.68 0,33.36 0,60 m 0,-60 c 0,16.44 0,32.87 0,60 m 0,0 C 143.98,60 87.96,60 0,60 m 200,0 C 137.76,60 75.52,60 0,60 m 0,0 C 0,43.74 0,27.49 0,0 M 0,60 C 0,40.02 0,20.03 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path324" />
+  </g>
+  <g
+     transform="translate(749.776,1670)"
+     id="g326">
+    <text
+       x="58.223953"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text325">returnVal = char</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1028,1650)"
+     id="g327">
+    <path
+       d="M 0,0 C 41.79,0 83.59,0 200,0 M 0,0 c 52.09,0 104.17,0 200,0 m 0,0 c 0,15.47 0,30.95 0,60 m 0,-60 c 0,20.34 0,40.68 0,60 m 0,0 C 122.62,60 45.24,60 0,60 m 200,0 C 130.13,60 60.26,60 0,60 m 0,0 C 0,40.31 0,20.61 0,0 M 0,60 C 0,39.88 0,19.75 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path326" />
+  </g>
+  <g
+     transform="translate(1042.2481,1670)"
+     id="g328">
+    <text
+       x="85.75193"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text327">returnVal = input + char</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(488,1910)"
+     id="g329">
+    <path
+       d="M 0,0 H 240 V 60 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#b2f2bb"
+       id="path328" />
+    <path
+       d="M 0,0 C 62.65,0 125.3,0 240,0 M 0,0 c 67.17,0 134.34,0 240,0 m 0,0 c 0,16.3 0,32.59 0,60 m 0,-60 c 0,13.39 0,26.78 0,60 m 0,0 C 144.51,60 49.02,60 0,60 m 240,0 C 165.55,60 91.11,60 0,60 m 0,0 C 0,45.54 0,31.08 0,0 M 0,60 C 0,38.23 0,16.47 0,0"
+       stroke="#1e1e1e"
+       stroke-width="4"
+       fill="none"
+       id="path329" />
+  </g>
+  <g
+     transform="translate(549.9101,1915)"
+     id="g330">
+    <text
+       x="58.089935"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text329">displayValue</text>
+    <text
+       x="58.089935"
+       y="44.080002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text330">(returnVal)</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(488,1970)"
+     id="g331">
+    <path
+       d="M 0,0 H 240 V 60 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#ffec99"
+       id="path330" />
+    <path
+       d="M 0,0 C 86.51,0 173.02,0 240,0 M 0,0 c 73.68,0 147.35,0 240,0 m 0,0 c 0,13.12 0,26.24 0,60 m 0,-60 c 0,14.28 0,28.56 0,60 m 0,0 C 157.87,60 75.73,60 0,60 m 240,0 C 175.84,60 111.69,60 0,60 m 0,0 C 0,42.19 0,24.38 0,0 M 0,60 C 0,43.55 0,27.11 0,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path331" />
+  </g>
+  <g
+     transform="translate(517.0701,1975)"
+     id="g332">
+    <text
+       x="90.929886"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text331">return handleStrLen</text>
+    <text
+       x="90.929886"
+       y="44.080002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text332">(returnVal)</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     id="g335"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1730,2030)"
+       id="g333">
+      <path
+         d="M 0,0 C 0,6.67 0,33.33 0,40 M 0,0 c 0,6.67 0,33.33 0,40"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path332" />
+    </g>
+    <g
+       transform="translate(1730,2030)"
+       id="g334">
+      <path
+         d="M 0,40 -6.34,26.41 H 6.34 L 0,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path333" />
+      <path
+         d="M 0,40 C -1.54,36.7 -3.08,33.39 -6.34,26.41 M 0,40 C -2.17,35.35 -4.33,30.71 -6.34,26.41 m 0,0 c 3.35,0 6.69,0 12.68,0 m -12.68,0 c 4.42,0 8.85,0 12.68,0 m 0,0 C 5.03,29.22 3.71,32.04 0,40 M 6.34,26.41 C 4.1,31.21 1.86,36.01 0,40 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path334" />
+    </g>
+  </g>
+  <mask
+     id="mask335" />
+  <g
+     stroke-linecap="round"
+     id="g338"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1250,1711)"
+       id="g336">
+      <path
+         d="M 0,0 C 0,83.37 0,166.73 0,219 M 0,0 c 0,72.3 0,144.6 0,219 m 0,0 c 132.74,0 265.47,0 359,0 M 0,219 c 86.03,0 172.06,0 359,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path335" />
+    </g>
+    <g
+       transform="translate(1250,1711)"
+       id="g337">
+      <path
+         d="m 359,219 -13.59,6.34 V 212.66 L 359,219"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path336" />
+      <path
+         d="m 359,219 c -5.18,2.41 -10.35,4.83 -13.59,6.34 M 359,219 c -4.49,2.09 -8.98,4.19 -13.59,6.34 m 0,0 c 0,-4.69 0,-9.38 0,-12.68 m 0,12.68 c 0,-3.04 0,-6.08 0,-12.68 m 0,0 c 3.27,1.53 6.55,3.06 13.59,6.34 m -13.59,-6.34 c 5.22,2.44 10.45,4.87 13.59,6.34 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path337" />
+    </g>
+  </g>
+  <mask
+     id="mask338" />
+  <g
+     stroke-linecap="round"
+     id="g341"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1409.9,1875)"
+       id="g339">
+      <path
+         d="M 0,0 C 0.03,14.85 0.05,29.69 0.1,55 M 0,0 c 0.02,11.69 0.04,23.37 0.1,55 m 0,0 c 58.49,0 116.97,0 199,0 m -199,0 c 77.93,0 155.85,0 199,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path338" />
+    </g>
+    <g
+       transform="translate(1409.9,1875)"
+       id="g340">
+      <path
+         d="m 199.1,55 -13.59,6.34 V 48.66 L 199.1,55"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path339" />
+      <path
+         d="m 199.1,55 c -3.67,1.71 -7.34,3.42 -13.59,6.34 M 199.1,55 c -2.89,1.35 -5.78,2.69 -13.59,6.34 m 0,0 c 0,-3.73 0,-7.45 0,-12.68 m 0,12.68 c 0,-4.97 0,-9.93 0,-12.68 m 0,0 c 3.11,1.45 6.23,2.91 13.59,6.34 m -13.59,-6.34 c 4.4,2.06 8.81,4.11 13.59,6.34 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path340" />
+    </g>
+  </g>
+  <mask
+     id="mask341" />
+  <g
+     stroke-linecap="round"
+     id="g344"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1729.9,1875)"
+       id="g342">
+      <path
+         d="M 0,0 C 0.02,9.3 0.03,18.6 0.06,34 M 0,0 c 0.02,12.38 0.05,24.75 0.06,34"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path341" />
+    </g>
+    <g
+       transform="translate(1729.9,1875)"
+       id="g343">
+      <path
+         d="M 0.06,34 -6.3,20.42 6.38,20.39 0.06,34"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path342" />
+      <path
+         d="M 0.06,34 C -1.68,30.28 -3.42,26.57 -6.3,20.42 M 0.06,34 C -2.25,29.06 -4.57,24.11 -6.3,20.42 m 0,0 C -2.5,20.41 1.3,20.4 6.38,20.39 M -6.3,20.42 C -1.81,20.41 2.67,20.4 6.38,20.39 m 0,0 C 4.28,24.91 2.19,29.43 0.06,34 M 6.38,20.39 C 4.58,24.27 2.78,28.14 0.06,34 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path343" />
+    </g>
+  </g>
+  <mask
+     id="mask344" />
+  <g
+     stroke-linecap="round"
+     id="g347"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2250,1711)"
+       id="g345">
+      <path
+         d="M 0,0 C 0,67.54 0,135.08 0,219 M 0,0 c 0,50.35 0,100.7 0,219 m 0,0 c -112.79,0 -225.58,0 -400,0 m 400,0 c -111.29,0 -222.58,0 -400,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path344" />
+    </g>
+    <g
+       transform="translate(2250,1711)"
+       id="g346">
+      <path
+         d="m -400,219 13.59,-6.34 v 12.68 L -400,219"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path345" />
+      <path
+         d="m -400,219 c 4.19,-1.95 8.38,-3.91 13.59,-6.34 M -400,219 c 3.13,-1.46 6.25,-2.92 13.59,-6.34 m 0,0 c 0,3.58 0,7.15 0,12.68 m 0,-12.68 c 0,3.53 0,7.06 0,12.68 m 0,0 c -3.88,-1.81 -7.76,-3.62 -13.59,-6.34 m 13.59,6.34 c -3.25,-1.52 -6.49,-3.03 -13.59,-6.34 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path346" />
+    </g>
+  </g>
+  <mask
+     id="mask347" />
+  <g
+     stroke-linecap="round"
+     id="g350"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1930,1711)"
+       id="g348">
+      <path
+         d="M 0,0 C 0,54.87 0,109.75 0,219 M 0,0 c 0,66.82 0,133.64 0,219 m 0,0 c -27.26,0 -54.52,0 -80,0 m 80,0 c -18.61,0 -37.23,0 -80,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path347" />
+    </g>
+    <g
+       transform="translate(1930,1711)"
+       id="g349">
+      <path
+         d="m -80,219 13.59,-6.34 v 12.68 L -80,219"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path348" />
+      <path
+         d="m -80,219 c 3.41,-1.59 6.81,-3.18 13.59,-6.34 M -80,219 c 4.15,-1.93 8.3,-3.87 13.59,-6.34 m 0,0 c 0,4.32 0,8.64 0,12.68 m 0,-12.68 c 0,2.95 0,5.9 0,12.68 m 0,0 C -71.49,222.97 -76.58,220.59 -80,219 m 13.59,6.34 C -71.74,222.85 -77.08,220.36 -80,219 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path349" />
+    </g>
+  </g>
+  <mask
+     id="mask350" />
+  <g
+     stroke-linecap="round"
+     transform="translate(8,1070)"
+     id="g351">
+    <path
+       d="M 0,0 C 404.24,0 808.48,0 1260,0 M 0,0 c 303.93,0 607.87,0 1260,0 m 0,0 c 0,384.27 0,768.54 0,1020 M 1260,0 c 0,281.69 0,563.38 0,1020 m 0,0 c -289.41,0 -578.82,0 -1260,0 m 1260,0 c -287.95,0 -575.9,0 -1260,0 m 0,0 C 0,622.79 0,225.58 0,0 M 0,1020 C 0,740.35 0,460.7 0,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path350" />
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(108,2130)"
+     id="g352">
+    <path
+       d="M 0,0 C 179.1,0 358.21,0 480,0 M 0,0 c 174.42,0 348.85,0 480,0 m 0,0 c 0,87.78 0,175.56 0,280 M 480,0 c 0,63.48 0,126.96 0,280 m 0,0 c -150.44,0 -300.88,0 -480,0 m 480,0 c -174.87,0 -349.74,0 -480,0 m 0,0 C 0,218.07 0,156.13 0,0 M 0,280 C 0,218.03 0,156.07 0,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path351" />
+  </g>
+  <g
+     transform="translate(113,2157.5)"
+     id="g360">
+    <text
+       x="0"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="start"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text352">    operations = {</text>
+    <text
+       x="0"
+       y="44.080002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="start"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text353">        addition: (a, b) =&gt; (a + b)</text>
+    <text
+       x="0"
+       y="69.080002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="start"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text354">        subtraction: (a, b) =&gt; (a - b)</text>
+    <text
+       x="0"
+       y="94.080002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="start"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text355">        multiplication: (a, b) =&gt; (a * b))</text>
+    <text
+       x="0"
+       y="119.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="start"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text356">        division: (a, b) =&gt; {</text>
+    <text
+       x="0"
+       y="144.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="start"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text357">                if (b = 0) return &quot;nope!&quot;</text>
+    <text
+       x="0"
+       y="169.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="start"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text358">                else return (a / b)</text>
+    <text
+       x="0"
+       y="194.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="start"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text359">        }</text>
+    <text
+       x="0"
+       y="219.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="start"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text360">    }</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1428,1090)"
+     id="g361">
+    <path
+       d="M 0,0 H 200 V 60 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#b2f2bb"
+       id="path360" />
+    <path
+       d="M 0,0 C 59.72,0 119.45,0 200,0 M 0,0 c 67.68,0 135.35,0 200,0 m 0,0 c 0,14.92 0,29.85 0,60 m 0,-60 c 0,14.95 0,29.9 0,60 m 0,0 c -45.22,0 -90.43,0 -200,0 m 200,0 C 124.36,60 48.73,60 0,60 m 0,0 C 0,37.6 0,15.21 0,0 M 0,60 C 0,42.21 0,24.43 0,0"
+       stroke="#1e1e1e"
+       stroke-width="4"
+       fill="none"
+       id="path361" />
+  </g>
+  <g
+     transform="translate(1440.8901,1107.5)"
+     id="g362">
+    <text
+       x="87.109909"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text361">executeOperation()</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1448,1410)"
+     id="g363">
+    <path
+       d="M 81,0 160,81 81,160 0,81"
+       stroke="none"
+       stroke-width="0"
+       fill="#a5d8ff"
+       fill-rule="evenodd"
+       id="path362" />
+    <path
+       d="m 81,0 c 23.93,24.54 47.87,49.08 79,81 M 81,0 c 21.48,22.02 42.95,44.04 79,81 m 0,0 c -27.44,27.44 -54.88,54.88 -79,79 m 79,-79 c -26.94,26.94 -53.88,53.88 -79,79 m 0,0 C 59.11,138.65 37.22,117.3 0,81 m 81,79 C 62.15,141.61 43.29,123.23 0,81 m 0,0 C 31.09,49.91 62.18,18.82 81,0 M 0,81 C 28.88,52.12 57.75,23.25 81,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path363" />
+  </g>
+  <g
+     transform="translate(1499.064,1470)"
+     id="g364">
+    <text
+       x="28.935982"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text363">inputs.b</text>
+    <text
+       x="28.935982"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text364">= &quot;&quot;?</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1448,1190)"
+     id="g365">
+    <path
+       d="M 81,0 160,81 81,160 0,81"
+       stroke="none"
+       stroke-width="0"
+       fill="#a5d8ff"
+       fill-rule="evenodd"
+       id="path364" />
+    <path
+       d="m 81,0 c 19.01,19.5 38.03,38.99 79,81 M 81,0 c 16.38,16.8 32.77,33.59 79,81 m 0,0 c -19.23,19.23 -38.46,38.46 -79,79 m 79,-79 c -18.86,18.86 -37.73,37.73 -79,79 m 0,0 C 59.46,138.99 37.92,117.98 0,81 m 81,79 C 51.88,131.59 22.75,103.19 0,81 m 0,0 C 31.56,49.44 63.11,17.89 81,0 M 0,81 C 22.43,58.57 44.87,36.13 81,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path365" />
+  </g>
+  <g
+     transform="translate(1499.528,1250)"
+     id="g366">
+    <text
+       x="28.471985"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text365">inputs.a</text>
+    <text
+       x="28.471985"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text366">= &quot;&quot;?</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1448,1630)"
+     id="g367">
+    <path
+       d="M 81,0 160,81 81,160 0,81"
+       stroke="none"
+       stroke-width="0"
+       fill="#a5d8ff"
+       fill-rule="evenodd"
+       id="path366" />
+    <path
+       d="m 81,0 c 31.45,32.25 62.91,64.5 79,81 M 81,0 c 29.62,30.37 59.24,60.74 79,81 m 0,0 c -29.53,29.53 -59.07,59.07 -79,79 m 79,-79 c -29.2,29.2 -58.41,58.41 -79,79 m 0,0 C 64.22,143.63 47.44,127.27 0,81 m 81,79 C 54.18,133.84 27.36,107.69 0,81 m 0,0 C 31.09,49.91 62.17,18.83 81,0 M 0,81 C 22.12,58.88 44.25,36.75 81,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path367" />
+  </g>
+  <g
+     transform="translate(1497.184,1680)"
+     id="g369">
+    <text
+       x="30.815979"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text367">inputs.</text>
+    <text
+       x="30.815979"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text368">operator</text>
+    <text
+       x="30.815979"
+       y="55.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text369">= &quot;&quot; ?</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     id="g372"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2650,1150)"
+       id="g370">
+      <path
+         d="M 0,0 C 0,6.5 0,32.5 0,39 M 0,0 c 0,6.5 0,32.5 0,39"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path369" />
+    </g>
+    <g
+       transform="translate(2650,1150)"
+       id="g371">
+      <path
+         d="M 0,39 -6.34,25.41 H 6.34 L 0,39"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path370" />
+      <path
+         d="M 0,39 C -2.26,34.16 -4.52,29.31 -6.34,25.41 M 0,39 C -1.84,35.05 -3.69,31.09 -6.34,25.41 m 0,0 c 3.62,0 7.25,0 12.68,0 m -12.68,0 c 2.78,0 5.55,0 12.68,0 m 0,0 C 4.7,28.92 3.06,32.44 0,39 M 6.34,25.41 C 4.09,30.23 1.84,35.05 0,39 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path371" />
+    </g>
+  </g>
+  <mask
+     id="mask372" />
+  <g
+     mask="url(#mask-jJy7MQMIwmw-soGgWO3eD)"
+     stroke-linecap="round"
+     id="g375"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2570,1270)"
+       id="g373">
+      <path
+         d="M 0,0 C -13.8,0 -27.6,0 -40,0 M 0,0 c -11.83,0 -23.66,0 -40,0 m 0,0 c 0,14.14 0,28.29 0,40 m 0,-40 c 0,12.72 0,25.43 0,40"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path372" />
+    </g>
+    <g
+       transform="translate(2570,1270)"
+       id="g374">
+      <path
+         d="m -40,40 -6.34,-13.59 h 12.68 L -40,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path373" />
+      <path
+         d="m -40,40 c -2.19,-4.69 -4.37,-9.38 -6.34,-13.59 M -40,40 c -1.88,-4.02 -3.75,-8.04 -6.34,-13.59 m 0,0 c 4.48,0 8.97,0 12.68,0 m -12.68,0 c 4.03,0 8.06,0 12.68,0 m 0,0 C -35.42,30.18 -37.18,33.96 -40,40 m 6.34,-13.59 c -1.5,3.21 -3,6.43 -6.34,13.59 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path374" />
+    </g>
+  </g>
+  <mask
+     id="mask-jJy7MQMIwmw-soGgWO3eD">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2710"
+       height="1410"
+       id="rect375" />
+    <rect
+       x="2517.696"
+       y="1260"
+       fill="#000000"
+       width="24.607986"
+       height="20"
+       opacity="1"
+       id="rect376" />
+  </mask>
+  <g
+     transform="translate(1395.696,1260)"
+     id="g376">
+    <text
+       x="12.303993"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text376">Yes</text>
+  </g>
+  <g
+     mask="url(#mask-iaMJtCVbwRtQzCiW9A6gf)"
+     stroke-linecap="round"
+     id="g379"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2730,1270)"
+       id="g377">
+      <path
+         d="M 0,0 C 9.12,0 18.23,0 40,0 M 0,0 c 10.66,0 21.32,0 40,0 m 0,0 c 0,9.28 0,18.56 0,40 M 40,0 c 0,9.5 0,18.99 0,40"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path376" />
+    </g>
+    <g
+       transform="translate(2730,1270)"
+       id="g378">
+      <path
+         d="M 40,40 33.66,26.41 H 46.34 L 40,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path377" />
+      <path
+         d="M 40,40 C 38.56,36.9 37.11,33.8 33.66,26.41 M 40,40 C 38.31,36.38 36.62,32.75 33.66,26.41 m 0,0 c 2.94,0 5.88,0 12.68,0 m -12.68,0 c 3.01,0 6.02,0 12.68,0 m 0,0 C 43.88,31.69 41.41,36.97 40,40 M 46.34,26.41 C 44.6,30.14 42.86,33.87 40,40 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path378" />
+    </g>
+  </g>
+  <mask
+     id="mask-iaMJtCVbwRtQzCiW9A6gf">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2870"
+       height="1410"
+       id="rect379" />
+    <rect
+       x="2759.592"
+       y="1260"
+       fill="#000000"
+       width="20.815979"
+       height="20"
+       opacity="1"
+       id="rect380" />
+  </mask>
+  <g
+     transform="translate(1637.592,1260)"
+     id="g380">
+    <text
+       x="10.40799"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text380">No</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1348,1310)"
+     id="g381">
+    <path
+       d="M 0,0 C 42.45,0 84.89,0 120,0 M 0,0 c 45.43,0 90.87,0 120,0 m 0,0 c 0,22.14 0,44.27 0,60 m 0,-60 c 0,20.31 0,40.62 0,60 m 0,0 C 90.98,60 61.96,60 0,60 m 120,0 C 84.04,60 48.09,60 0,60 m 0,0 C 0,45.36 0,30.72 0,0 M 0,60 C 0,38.28 0,16.56 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path380" />
+  </g>
+  <g
+     transform="translate(1388.28,1330)"
+     id="g382">
+    <text
+       x="19.719986"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text381">a = &quot;&quot;</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1588,1310)"
+     id="g383">
+    <path
+       d="M 0,0 C 37.22,0 74.44,0 120,0 M 0,0 c 47.95,0 95.9,0 120,0 m 0,0 c 0,15.97 0,31.94 0,60 m 0,-60 c 0,15.15 0,30.29 0,60 m 0,0 C 82.43,60 44.86,60 0,60 m 120,0 C 83.48,60 46.96,60 0,60 m 0,0 C 0,37.39 0,14.78 0,0 M 0,60 C 0,41.66 0,23.33 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path382" />
+  </g>
+  <g
+     transform="translate(1606.288,1330)"
+     id="g384">
+    <text
+       x="41.711975"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text383">a = inputs.a</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     id="g387"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2530,1370)"
+       id="g385">
+      <path
+         d="M 0,0 C 0,14.19 0,28.38 0,40 M 0,0 c 0,9.92 0,19.83 0,40 m 0,0 c 25.97,0 51.93,0 120,0 M 0,40 c 45.49,0 90.98,0 120,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path384" />
+    </g>
+    <g
+       transform="translate(2530,1370)"
+       id="g386">
+      <path
+         d="m 120,40 -13.59,6.34 V 33.66 L 120,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path385" />
+      <path
+         d="m 120,40 c -4.82,2.25 -9.65,4.5 -13.59,6.34 M 120,40 c -3.37,1.57 -6.74,3.14 -13.59,6.34 m 0,0 c 0,-2.74 0,-5.49 0,-12.68 m 0,12.68 c 0,-4.81 0,-9.61 0,-12.68 m 0,0 c 3.55,1.66 7.11,3.32 13.59,6.34 m -13.59,-6.34 c 4.52,2.11 9.05,4.22 13.59,6.34 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path386" />
+    </g>
+  </g>
+  <mask
+     id="mask387" />
+  <g
+     stroke-linecap="round"
+     id="g390"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2767.5859,1370)"
+       id="g388">
+      <path
+         d="M 0,0 C 0,13.92 0,27.84 0,40 M 0,0 c 0,13.41 0,26.81 0,40 m 0,0 c -38.74,0 -77.49,0 -117.59,0 M 0,40 c -45.53,0 -91.06,0 -117.59,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path387" />
+    </g>
+    <g
+       transform="translate(2767.5859,1370)"
+       id="g389">
+      <path
+         d="m -117.59,40 13.6,-6.34 V 46.34 L -117.59,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path388" />
+      <path
+         d="m -117.59,40 c 4.74,-2.21 9.47,-4.41 13.6,-6.34 m -13.6,6.34 c 4.56,-2.12 9.12,-4.25 13.6,-6.34 m 0,0 c 0,4.18 0,8.36 0,12.68 m 0,-12.68 c 0,4.91 0,9.82 0,12.68 m 0,0 c -3.88,-1.81 -7.75,-3.62 -13.6,-6.34 m 13.6,6.34 c -4.03,-1.88 -8.06,-3.76 -13.6,-6.34 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path389" />
+    </g>
+  </g>
+  <mask
+     id="mask390" />
+  <g
+     stroke-linecap="round"
+     transform="translate(1348,1530)"
+     id="g391">
+    <path
+       d="M 0,0 C 40.9,0 81.8,0 120,0 M 0,0 c 38.7,0 77.39,0 120,0 m 0,0 c 0,20.05 0,40.11 0,60 m 0,-60 c 0,16.28 0,32.55 0,60 m 0,0 C 93.81,60 67.63,60 0,60 m 120,0 C 74.92,60 29.84,60 0,60 m 0,0 C 0,42.91 0,25.83 0,0 M 0,60 C 0,39.4 0,18.8 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path390" />
+  </g>
+  <g
+     transform="translate(1388.28,1550)"
+     id="g392">
+    <text
+       x="19.719986"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text391">a = &quot;&quot;</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1588,1530)"
+     id="g393">
+    <path
+       d="M 0,0 C 43.61,0 87.23,0 120,0 M 0,0 c 44.25,0 88.49,0 120,0 m 0,0 c 0,23.72 0,47.44 0,60 m 0,-60 c 0,12.67 0,25.35 0,60 m 0,0 C 78.49,60 36.98,60 0,60 m 120,0 C 74.6,60 29.2,60 0,60 m 0,0 C 0,45.81 0,31.62 0,0 M 0,60 C 0,46.43 0,32.85 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path392" />
+  </g>
+  <g
+     transform="translate(1606.288,1550)"
+     id="g394">
+    <text
+       x="41.711975"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text393">a = inputs.a</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1348,1750)"
+     id="g395">
+    <path
+       d="M 0,0 C 26.56,0 53.12,0 120,0 M 0,0 c 45.83,0 91.66,0 120,0 m 0,0 c 0,13.64 0,27.28 0,60 m 0,-60 c 0,12.74 0,25.47 0,60 m 0,0 C 73.83,60 27.66,60 0,60 m 120,0 C 92.81,60 65.62,60 0,60 m 0,0 C 0,38.97 0,17.94 0,0 M 0,60 C 0,44.97 0,29.94 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path394" />
+  </g>
+  <g
+     transform="translate(1378.568,1770)"
+     id="g396">
+    <text
+       x="29.431976"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text395">op = &quot;+&quot;</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1588,1750)"
+     id="g397">
+    <path
+       d="M 0,0 C 44.2,0 88.4,0 120,0 M 0,0 c 38.66,0 77.32,0 120,0 m 0,0 c 0,15.71 0,31.42 0,60 m 0,-60 c 0,21.72 0,43.44 0,60 m 0,0 C 94.22,60 68.45,60 0,60 m 120,0 C 74.49,60 28.99,60 0,60 m 0,0 C 0,37.04 0,14.07 0,0 M 0,60 C 0,43.63 0,27.27 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path396" />
+  </g>
+  <g
+     transform="translate(1593.112,1760)"
+     id="g398">
+    <text
+       x="54.887962"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text397">op =</text>
+    <text
+       x="54.887962"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text398">inputs.operator</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1428,1830)"
+     id="g399">
+    <path
+       d="M 0,0 C 41.66,0 83.32,0 200,0 M 0,0 c 48.55,0 97.1,0 200,0 m 0,0 c 0,16.13 0,32.26 0,80 m 0,-80 c 0,28.4 0,56.81 0,80 m 0,0 C 120.21,80 40.41,80 0,80 m 200,0 C 149.58,80 99.16,80 0,80 m 0,0 C 0,63.15 0,46.29 0,0 M 0,80 C 0,54.15 0,28.3 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path398" />
+  </g>
+  <g
+     transform="translate(1444.0721,1840)"
+     id="g401">
+    <text
+       x="83.927925"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text399">returnVal =</text>
+    <text
+       x="83.927925"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text400">operations[opKeys[op]]</text>
+    <text
+       x="83.927925"
+       y="55.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text401">(a,b)</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1428,1910)"
+     id="g402">
+    <path
+       d="M 0,0 H 200 V 60 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#b2f2bb"
+       id="path401" />
+    <path
+       d="M 0,0 C 63.08,0 126.15,0 200,0 M 0,0 c 42.04,0 84.08,0 200,0 m 0,0 c 0,23.84 0,47.68 0,60 m 0,-60 c 0,13.22 0,26.44 0,60 m 0,0 C 143.79,60 87.58,60 0,60 m 200,0 C 143.72,60 87.44,60 0,60 m 0,0 C 0,38.96 0,17.92 0,0 M 0,60 C 0,37.15 0,14.31 0,0"
+       stroke="#1e1e1e"
+       stroke-width="4"
+       fill="none"
+       id="path402" />
+  </g>
+  <g
+     transform="translate(1469.9101,1915)"
+     id="g403">
+    <text
+       x="58.089935"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text402">displayValue</text>
+    <text
+       x="58.089935"
+       y="44.080002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text403">(returnVal)</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1428,1970)"
+     id="g404">
+    <path
+       d="M 0,0 H 200 V 60 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#ffec99"
+       id="path403" />
+    <path
+       d="M 0,0 C 67.71,0 135.42,0 200,0 M 0,0 c 78.28,0 156.56,0 200,0 m 0,0 c 0,20.41 0,40.81 0,60 m 0,-60 c 0,15.14 0,30.29 0,60 m 0,0 C 127.3,60 54.61,60 0,60 m 200,0 C 143.87,60 87.74,60 0,60 m 0,0 C 0,44.76 0,29.53 0,0 M 0,60 C 0,40.36 0,20.72 0,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path404" />
+  </g>
+  <g
+     transform="translate(1437.0701,1975)"
+     id="g405">
+    <text
+       x="90.929886"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text404">return handleStrLen</text>
+    <text
+       x="90.929886"
+       y="44.080002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text405">(returnVal)</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     id="g408"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2650,2030)"
+       id="g406">
+      <path
+         d="M 0,0 C 0,6.5 0,32.5 0,39 M 0,0 c 0,6.5 0,32.5 0,39"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path405" />
+    </g>
+    <g
+       transform="translate(2650,2030)"
+       id="g407">
+      <path
+         d="M 0,39 -6.34,25.41 H 6.34 L 0,39"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path406" />
+      <path
+         d="M 0,39 C -1.61,35.55 -3.22,32.1 -6.34,25.41 M 0,39 C -2.08,34.55 -4.15,30.1 -6.34,25.41 m 0,0 c 4.86,0 9.72,0 12.68,0 m -12.68,0 c 4.63,0 9.27,0 12.68,0 m 0,0 C 3.94,30.55 1.54,35.7 0,39 M 6.34,25.41 C 4.37,29.64 2.39,33.87 0,39 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path407" />
+    </g>
+  </g>
+  <mask
+     id="mask408" />
+  <g
+     stroke-linecap="round"
+     transform="translate(1268,1070)"
+     id="g409">
+    <path
+       d="M 0,0 C 126.04,0 252.08,0 500,0 M 0,0 c 101.38,0 202.76,0 500,0 m 0,0 c 0,346.99 0,693.98 0,1020 M 500,0 c 0,289.18 0,578.36 0,1020 m 0,0 c -126.9,0 -253.8,0 -500,0 m 500,0 c -179.64,0 -359.29,0 -500,0 m 0,0 C 0,793.37 0,566.74 0,0 M 0,1020 C 0,761.43 0,502.86 0,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path408" />
+  </g>
+  <g
+     mask="url(#mask-GIsiwPp_uTjxNdQZcPe9F)"
+     stroke-linecap="round"
+     id="g412"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2570,1490)"
+       id="g410">
+      <path
+         d="M 0,0 C -10.86,0 -21.72,0 -40,0 M 0,0 c -8.69,0 -17.37,0 -40,0 m 0,0 c 0,14.39 0,28.78 0,40 m 0,-40 c 0,14.51 0,29.02 0,40"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path409" />
+    </g>
+    <g
+       transform="translate(2570,1490)"
+       id="g411">
+      <path
+         d="m -40,40 -6.34,-13.59 h 12.68 L -40,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path410" />
+      <path
+         d="m -40,40 c -1.72,-3.69 -3.44,-7.38 -6.34,-13.59 M -40,40 c -1.38,-2.95 -2.75,-5.9 -6.34,-13.59 m 0,0 c 4.56,0 9.12,0 12.68,0 m -12.68,0 c 4.6,0 9.2,0 12.68,0 m 0,0 C -36.17,31.79 -38.68,37.18 -40,40 m 6.34,-13.59 C -35.14,29.58 -36.62,32.75 -40,40 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path411" />
+    </g>
+  </g>
+  <mask
+     id="mask-GIsiwPp_uTjxNdQZcPe9F">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2710"
+       height="1630"
+       id="rect412" />
+    <rect
+       x="2517.696"
+       y="1480"
+       fill="#000000"
+       width="24.607986"
+       height="20"
+       opacity="1"
+       id="rect413" />
+  </mask>
+  <g
+     transform="translate(1395.696,1480)"
+     id="g413">
+    <text
+       x="12.303993"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text413">Yes</text>
+  </g>
+  <g
+     mask="url(#mask-X7ttrYTBNdeF7eHVVVMZa)"
+     stroke-linecap="round"
+     id="g416"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2730,1490)"
+       id="g414">
+      <path
+         d="M 0,0 C 12.94,0 25.88,0 40,0 M 0,0 c 11.39,0 22.78,0 40,0 m 0,0 c 0,15.08 0,30.16 0,40 M 40,0 c 0,8.9 0,17.8 0,40"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path413" />
+    </g>
+    <g
+       transform="translate(2730,1490)"
+       id="g415">
+      <path
+         d="M 40,40 33.66,26.41 H 46.34 L 40,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path414" />
+      <path
+         d="M 40,40 C 37.95,35.6 35.9,31.2 33.66,26.41 M 40,40 C 38.19,36.13 36.39,32.26 33.66,26.41 m 0,0 c 4.78,0 9.56,0 12.68,0 m -12.68,0 c 2.82,0 5.64,0 12.68,0 m 0,0 C 44.12,31.17 41.9,35.93 40,40 M 46.34,26.41 C 44.46,30.43 42.58,34.46 40,40 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path415" />
+    </g>
+  </g>
+  <mask
+     id="mask-X7ttrYTBNdeF7eHVVVMZa">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2870"
+       height="1630"
+       id="rect416" />
+    <rect
+       x="2759.592"
+       y="1480"
+       fill="#000000"
+       width="20.815979"
+       height="20"
+       opacity="1"
+       id="rect417" />
+  </mask>
+  <g
+     transform="translate(1637.592,1480)"
+     id="g417">
+    <text
+       x="10.40799"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text417">No</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     id="g420"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2530,1590)"
+       id="g418">
+      <path
+         d="M 0,0 C 0,9.1 0,18.19 0,40 M 0,0 c 0,12.1 0,24.21 0,40 m 0,0 c 39.54,0 79.08,0 120,0 M 0,40 c 42.77,0 85.54,0 120,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path417" />
+    </g>
+    <g
+       transform="translate(2530,1590)"
+       id="g419">
+      <path
+         d="m 120,40 -13.59,6.34 V 33.66 L 120,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path418" />
+      <path
+         d="m 120,40 c -3.09,1.44 -6.18,2.88 -13.59,6.34 M 120,40 c -4.11,1.92 -8.23,3.84 -13.59,6.34 m 0,0 c 0,-4.18 0,-8.36 0,-12.68 m 0,12.68 c 0,-4.52 0,-9.04 0,-12.68 m 0,0 c 3.73,1.74 7.47,3.49 13.59,6.34 m -13.59,-6.34 c 5.18,2.42 10.37,4.84 13.59,6.34 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path419" />
+    </g>
+  </g>
+  <mask
+     id="mask420" />
+  <g
+     stroke-linecap="round"
+     id="g423"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2767.5859,1590)"
+       id="g421">
+      <path
+         d="M 0,0 C 0,10.04 0,20.08 0,40 M 0,0 c 0,12.91 0,25.81 0,40 m 0,0 c -24.86,0 -49.71,0 -117.59,0 M 0,40 c -38.59,0 -77.17,0 -117.59,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path420" />
+    </g>
+    <g
+       transform="translate(2767.5859,1590)"
+       id="g422">
+      <path
+         d="m -117.59,40 13.6,-6.34 V 46.34 L -117.59,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path421" />
+      <path
+         d="m -117.59,40 c 3.42,-1.59 6.83,-3.18 13.6,-6.34 m -13.6,6.34 c 4.39,-2.05 8.78,-4.09 13.6,-6.34 m 0,0 c 0,2.68 0,5.36 0,12.68 m 0,-12.68 c 0,4.16 0,8.32 0,12.68 m 0,0 c -3.17,-1.48 -6.34,-2.96 -13.6,-6.34 m 13.6,6.34 c -4.53,-2.11 -9.05,-4.22 -13.6,-6.34 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path422" />
+    </g>
+  </g>
+  <mask
+     id="mask423" />
+  <g
+     mask="url(#mask-yvc-01UDmkKs3Xi8af9BK)"
+     stroke-linecap="round"
+     id="g426"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2570,1710)"
+       id="g424">
+      <path
+         d="M 0,0 C -9.04,0 -18.08,0 -40,0 M 0,0 c -9.64,0 -19.27,0 -40,0 m 0,0 c 0,13.32 0,26.63 0,40 m 0,-40 c 0,13.09 0,26.17 0,40"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path423" />
+    </g>
+    <g
+       transform="translate(2570,1710)"
+       id="g425">
+      <path
+         d="m -40,40 -6.34,-13.59 h 12.68 L -40,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path424" />
+      <path
+         d="m -40,40 c -1.43,-3.07 -2.87,-6.15 -6.34,-13.59 M -40,40 c -1.53,-3.27 -3.05,-6.55 -6.34,-13.59 m 0,0 c 4.22,0 8.44,0 12.68,0 m -12.68,0 c 4.15,0 8.3,0 12.68,0 m 0,0 C -35.09,29.48 -36.52,32.55 -40,40 m 6.34,-13.59 C -35.33,29.98 -36.99,33.55 -40,40 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path425" />
+    </g>
+  </g>
+  <mask
+     id="mask-yvc-01UDmkKs3Xi8af9BK">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2710"
+       height="1850"
+       id="rect426" />
+    <rect
+       x="2517.696"
+       y="1700"
+       fill="#000000"
+       width="24.607986"
+       height="20"
+       opacity="1"
+       id="rect427" />
+  </mask>
+  <g
+     transform="translate(1395.696,1700)"
+     id="g427">
+    <text
+       x="12.303993"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text427">Yes</text>
+  </g>
+  <g
+     mask="url(#mask-gT2GhRtj9HwVTgqKTlKnv)"
+     stroke-linecap="round"
+     id="g430"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2730,1710)"
+       id="g428">
+      <path
+         d="M 0,0 C 8.03,0 16.06,0 40,0 M 0,0 c 14.36,0 28.72,0 40,0 m 0,0 c 0,15.32 0,30.64 0,40 M 40,0 c 0,9.78 0,19.55 0,40"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path427" />
+    </g>
+    <g
+       transform="translate(2730,1710)"
+       id="g429">
+      <path
+         d="M 40,40 33.66,26.41 H 46.34 L 40,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path428" />
+      <path
+         d="M 40,40 C 38.73,37.27 37.45,34.54 33.66,26.41 M 40,40 C 37.72,35.12 35.45,30.24 33.66,26.41 m 0,0 c 4.86,0 9.71,0 12.68,0 m -12.68,0 c 3.1,0 6.2,0 12.68,0 m 0,0 C 44.18,31.03 42.02,35.66 40,40 M 46.34,26.41 C 44.79,29.73 43.24,33.06 40,40 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path429" />
+    </g>
+  </g>
+  <mask
+     id="mask-gT2GhRtj9HwVTgqKTlKnv">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2870"
+       height="1850"
+       id="rect430" />
+    <rect
+       x="2759.592"
+       y="1700"
+       fill="#000000"
+       width="20.815979"
+       height="20"
+       opacity="1"
+       id="rect431" />
+  </mask>
+  <g
+     transform="translate(1637.592,1700)"
+     id="g431">
+    <text
+       x="10.40799"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text431">No</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     id="g434"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2530,1810)"
+       id="g432">
+      <path
+         d="M 0,0 C 0,14.37 0,28.74 0,60 M 0,0 c 0,21.72 0,43.44 0,60 m 0,0 c 7.9,0 15.81,0 20,0 M 0,60 c 5.59,0 11.18,0 20,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path431" />
+    </g>
+    <g
+       transform="translate(2530,1810)"
+       id="g433">
+      <path
+         d="m 20,60 -9.06,4.23 V 55.77 L 20,60"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path432" />
+      <path
+         d="m 20,60 c -2.17,1.01 -4.34,2.02 -9.06,4.23 M 20,60 c -3.28,1.53 -6.56,3.06 -9.06,4.23 m 0,0 c 0,-3.34 0,-6.68 0,-8.46 m 0,8.46 c 0,-2.37 0,-4.73 0,-8.46 m 0,0 c 2.78,1.3 5.56,2.6 9.06,4.23 m -9.06,-4.23 c 3.6,1.69 7.21,3.37 9.06,4.23 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path433" />
+    </g>
+  </g>
+  <mask
+     id="mask434" />
+  <g
+     stroke-linecap="round"
+     id="g437"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2770,1810)"
+       id="g435">
+      <path
+         d="M 0,0 C 0,14.3 0,28.6 0,60 M 0,0 c 0,12.82 0,25.65 0,60 m 0,0 c -5.85,0 -11.69,0 -20,0 m 20,0 c -4.57,0 -9.13,0 -20,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path434" />
+    </g>
+    <g
+       transform="translate(2770,1810)"
+       id="g436">
+      <path
+         d="m -20,60 9.06,-4.23 v 8.46 L -20,60"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path435" />
+      <path
+         d="m -20,60 c 2.16,-1.01 4.32,-2.01 9.06,-4.23 M -20,60 c 1.94,-0.9 3.87,-1.81 9.06,-4.23 m 0,0 c 0,2.47 0,4.95 0,8.46 m 0,-8.46 c 0,1.93 0,3.86 0,8.46 m 0,0 C -13.7,62.94 -16.45,61.65 -20,60 m 9.06,4.23 C -14.02,62.79 -17.11,61.35 -20,60 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path436" />
+    </g>
+  </g>
+  <mask
+     id="mask437" />
+  <g
+     stroke-linecap="round"
+     transform="translate(108,2410)"
+     id="g438">
+    <path
+       d="M 0,0 C 191.43,0 382.86,0 480,0 M 0,0 c 174.77,0 349.55,0 480,0 m 0,0 c 0,111.49 0,222.98 0,280 M 480,0 c 0,63.11 0,126.22 0,280 m 0,0 c -158.85,0 -317.69,0 -480,0 m 480,0 c -175.27,0 -350.53,0 -480,0 m 0,0 C 0,193.83 0,107.65 0,0 M 0,280 C 0,175.79 0,71.57 0,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path437" />
+  </g>
+  <g
+     transform="translate(113,2500)"
+     id="g441">
+    <text
+       x="0"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="start"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text438">    inputs.a = first operand, default: empty string</text>
+    <text
+       x="0"
+       y="44.080002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="start"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text439">    inputs.b = second operand default: empty string</text>
+    <text
+       x="0"
+       y="69.080002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="start"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text440">    inputs.op = operation, default: empty string</text>
+    <text
+       x="0"
+       y="94.080002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="start"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text441">    executed: was &quot;=&quot; pressed? default: false</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(788,2150)"
+     id="g442">
+    <path
+       d="M 0,0 H 240 V 60 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#b2f2bb"
+       id="path441" />
+    <path
+       d="M 0,0 C 61.1,0 122.19,0 240,0 M 0,0 c 77.76,0 155.53,0 240,0 m 0,0 c 0,22.45 0,44.89 0,60 m 0,-60 c 0,23.24 0,46.49 0,60 m 0,0 C 146.58,60 53.16,60 0,60 m 240,0 C 147,60 54,60 0,60 m 0,0 C 0,37.42 0,14.83 0,0 M 0,60 C 0,42.53 0,25.05 0,0"
+       stroke="#1e1e1e"
+       stroke-width="4"
+       fill="none"
+       id="path442" />
+  </g>
+  <g
+     transform="translate(847.1901,2155)"
+     id="g443">
+    <text
+       x="60.809929"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text442">handleStrLen</text>
+    <text
+       x="60.809929"
+       y="44.080002"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text443">(string)</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(828,2250)"
+     id="g444">
+    <path
+       d="M 81,0 160,81 81,160 0,81"
+       stroke="none"
+       stroke-width="0"
+       fill="#a5d8ff"
+       fill-rule="evenodd"
+       id="path443" />
+    <path
+       d="m 81,0 c 18.97,19.45 37.94,38.9 79,81 M 81,0 c 20.83,21.35 41.65,42.7 79,81 m 0,0 c -31.1,31.1 -62.19,62.19 -79,79 m 79,-79 c -25.82,25.82 -51.65,51.65 -79,79 m 0,0 C 50.42,130.18 19.84,100.35 0,81 m 81,79 C 57.27,136.85 33.54,113.71 0,81 m 0,0 C 27.74,53.26 55.49,25.51 81,0 M 0,81 C 17.83,63.17 35.66,45.34 81,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path444" />
+  </g>
+  <g
+     transform="translate(878.048,2300)"
+     id="g446">
+    <text
+       x="29.951973"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text444">string</text>
+    <text
+       x="29.951973"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text445">includes</text>
+    <text
+       x="29.951973"
+       y="55.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text446">&quot;.&quot;?</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(728,2370)"
+     id="g447">
+    <path
+       d="M 0,0 C 37.51,0 75.02,0 120,0 M 0,0 c 26.85,0 53.69,0 120,0 m 0,0 c 0,15.38 0,30.77 0,60 m 0,-60 c 0,13.7 0,27.4 0,60 m 0,0 C 93.7,60 67.4,60 0,60 m 120,0 C 86.95,60 53.89,60 0,60 m 0,0 C 0,40.88 0,21.76 0,0 M 0,60 C 0,45.94 0,31.88 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path446" />
+  </g>
+  <g
+     transform="translate(740.304,2380)"
+     id="g448">
+    <text
+       x="47.695961"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text447">maxLength =</text>
+    <text
+       x="47.695961"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text448">11</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(968,2370)"
+     id="g449">
+    <path
+       d="M 0,0 C 29.08,0 58.16,0 120,0 M 0,0 c 35.37,0 70.73,0 120,0 m 0,0 c 0,13.2 0,26.39 0,60 m 0,-60 c 0,14.16 0,28.33 0,60 m 0,0 C 77.35,60 34.69,60 0,60 m 120,0 C 83.65,60 47.29,60 0,60 m 0,0 C 0,45.23 0,30.47 0,0 M 0,60 C 0,44.2 0,28.41 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path448" />
+  </g>
+  <g
+     transform="translate(980.304,2380)"
+     id="g450">
+    <text
+       x="47.695961"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text449">maxLength =</text>
+    <text
+       x="47.695961"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text450">10</text>
+  </g>
+  <g
+     mask="url(#mask-37DmOmouKXkX41pDh0aeG)"
+     stroke-linecap="round"
+     id="g453"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1950,2330)"
+       id="g451">
+      <path
+         d="M 0,0 C -10.49,0 -20.97,0 -40,0 M 0,0 c -8.02,0 -16.04,0 -40,0 m 0,0 c 0,15.9 0,31.8 0,40 m 0,-40 c 0,12.24 0,24.48 0,40"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path450" />
+    </g>
+    <g
+       transform="translate(1950,2330)"
+       id="g452">
+      <path
+         d="m -40,40 -6.34,-13.59 h 12.68 L -40,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path451" />
+      <path
+         d="m -40,40 c -1.66,-3.56 -3.32,-7.13 -6.34,-13.59 M -40,40 c -1.27,-2.72 -2.54,-5.45 -6.34,-13.59 m 0,0 c 5.04,0 10.08,0 12.68,0 m -12.68,0 c 3.88,0 7.76,0 12.68,0 m 0,0 c -2.25,4.82 -4.5,9.65 -6.34,13.59 m 6.34,-13.59 C -36.12,31.69 -38.58,36.97 -40,40 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path452" />
+    </g>
+  </g>
+  <mask
+     id="mask-37DmOmouKXkX41pDh0aeG">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2090"
+       height="2470"
+       id="rect453" />
+    <rect
+       x="1897.696"
+       y="2320"
+       fill="#000000"
+       width="24.607986"
+       height="20"
+       opacity="1"
+       id="rect454" />
+  </mask>
+  <g
+     transform="translate(775.696,2320)"
+     id="g454">
+    <text
+       x="12.303993"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text454">Yes</text>
+  </g>
+  <g
+     mask="url(#mask-wVt_uvRMDru6ye84NjWRg)"
+     stroke-linecap="round"
+     id="g457"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2110,2330)"
+       id="g455">
+      <path
+         d="M 0,0 C 15.25,0 30.51,0 40,0 M 0,0 c 10.53,0 21.05,0 40,0 m 0,0 c 0,13.15 0,26.31 0,40 M 40,0 c 0,13.69 0,27.39 0,40"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path454" />
+    </g>
+    <g
+       transform="translate(2110,2330)"
+       id="g456">
+      <path
+         d="M 40,40 33.66,26.41 H 46.34 L 40,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path455" />
+      <path
+         d="M 40,40 C 37.58,34.82 35.16,29.63 33.66,26.41 M 40,40 C 38.33,36.42 36.66,32.84 33.66,26.41 m 0,0 c 4.17,0 8.34,0 12.68,0 m -12.68,0 c 4.34,0 8.68,0 12.68,0 m 0,0 C 44.67,29.98 43,33.56 40,40 M 46.34,26.41 C 44.8,29.71 43.26,33.02 40,40 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path456" />
+    </g>
+  </g>
+  <mask
+     id="mask-wVt_uvRMDru6ye84NjWRg">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2250"
+       height="2470"
+       id="rect457" />
+    <rect
+       x="2139.592"
+       y="2320"
+       fill="#000000"
+       width="20.815979"
+       height="20"
+       opacity="1"
+       id="rect458" />
+  </mask>
+  <g
+     transform="translate(1017.592,2320)"
+     id="g458">
+    <text
+       x="10.40799"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text458">No</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     id="g461"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2030,2210)"
+       id="g459">
+      <path
+         d="M 0,0 C 0,6.67 0,33.33 0,40 M 0,0 c 0,6.67 0,33.33 0,40"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path458" />
+    </g>
+    <g
+       transform="translate(2030,2210)"
+       id="g460">
+      <path
+         d="M 0,40 -6.34,26.41 H 6.34 L 0,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path459" />
+      <path
+         d="M 0,40 C -2.28,35.11 -4.56,30.22 -6.34,26.41 M 0,40 C -2.27,35.13 -4.54,30.26 -6.34,26.41 m 0,0 c 3.8,0 7.59,0 12.68,0 m -12.68,0 c 3.15,0 6.31,0 12.68,0 m 0,0 C 4.41,30.53 2.49,34.66 0,40 M 6.34,26.41 C 4.24,30.9 2.15,35.4 0,40 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path460" />
+    </g>
+  </g>
+  <mask
+     id="mask461" />
+  <g
+     stroke-linecap="round"
+     id="g464"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1890,2650)"
+       id="g462">
+      <path
+         d="M 0,0 C 0,3.33 0,16.67 0,20 M 0,0 c 0,3.33 0,16.67 0,20"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path461" />
+    </g>
+    <g
+       transform="translate(1890,2650)"
+       id="g463">
+      <path
+         d="M 0,20 -4.23,10.94 H 4.23 L 0,20"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path462" />
+      <path
+         d="M 0,20 C -1.3,17.21 -2.6,14.42 -4.23,10.94 M 0,20 c -1.04,-2.23 -2.08,-4.46 -4.23,-9.06 m 0,0 c 3.18,0 6.35,0 8.46,0 m -8.46,0 c 2.38,0 4.76,0 8.46,0 m 0,0 C 3.06,13.44 1.89,15.95 0,20 M 4.23,10.94 C 2.95,13.68 1.67,16.41 0,20 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path463" />
+    </g>
+  </g>
+  <mask
+     id="mask464" />
+  <g
+     stroke-linecap="round"
+     transform="translate(808,2430)"
+     id="g465">
+    <path
+       d="M 101,0 200,81 101,160 0,81"
+       stroke="none"
+       stroke-width="0"
+       fill="#a5d8ff"
+       fill-rule="evenodd"
+       id="path464" />
+    <path
+       d="m 101,0 c 22.93,18.76 45.85,37.52 99,81 M 101,0 c 20.94,17.13 41.87,34.26 99,81 m 0,0 c -38.12,30.42 -76.23,60.83 -99,79 m 99,-79 c -23.98,19.14 -47.96,38.27 -99,79 m 0,0 C 67.86,134.08 34.73,108.16 0,81 m 101,79 C 69.13,135.07 37.27,110.15 0,81 m 0,0 C 26.66,59.62 53.32,38.23 101,0 M 0,81 C 39.74,49.13 79.47,17.26 101,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path465" />
+  </g>
+  <g
+     transform="translate(863.712,2480)"
+     id="g467">
+    <text
+       x="44.287964"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text465">string.</text>
+    <text
+       x="44.287964"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text466">length &gt;=</text>
+    <text
+       x="44.287964"
+       y="55.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text467">maxLength?</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(708,2550)"
+     id="g468">
+    <path
+       d="M 0,0 H 120 V 90 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#ffec99"
+       id="path467" />
+    <path
+       d="M 0,0 C 45.7,0 91.39,0 120,0 M 0,0 c 30.51,0 61.01,0 120,0 m 0,0 c 0,32.11 0,64.21 0,90 m 0,-90 c 0,22.32 0,44.64 0,90 m 0,0 C 88.68,90 57.36,90 0,90 m 120,0 C 83.22,90 46.44,90 0,90 m 0,0 C 0,60.6 0,31.2 0,0 M 0,90 C 0,68.96 0,47.92 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path468" />
+  </g>
+  <g
+     transform="translate(713.2241,2555)"
+     id="g471">
+    <text
+       x="54.775948"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text468">return</text>
+    <text
+       x="54.775948"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text469">string.substrin</text>
+    <text
+       x="54.775948"
+       y="55.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text470">g</text>
+    <text
+       x="54.775948"
+       y="75.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text471">(0, maxLength)</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(988,2550)"
+     id="g472">
+    <path
+       d="M 0,0 H 120 V 60 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#ffec99"
+       id="path471" />
+    <path
+       d="M 0,0 C 44.01,0 88.01,0 120,0 M 0,0 c 30.63,0 61.26,0 120,0 m 0,0 c 0,18.57 0,37.13 0,60 m 0,-60 c 0,22.55 0,45.11 0,60 m 0,0 C 81,60 42.01,60 0,60 m 120,0 C 73.95,60 27.89,60 0,60 m 0,0 C 0,38.17 0,16.34 0,0 M 0,60 C 0,45.75 0,31.5 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path472" />
+  </g>
+  <g
+     transform="translate(1003.104,2570)"
+     id="g473">
+    <text
+       x="44.895958"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text472">return string</text>
+  </g>
+  <g
+     mask="url(#mask-WpB5BHxGemC7vjwdy_yG4)"
+     stroke-linecap="round"
+     id="g476"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1930,2510)"
+       id="g474">
+      <path
+         d="M 0,0 C -10.87,0 -21.75,0 -40,0 M 0,0 c -9.27,0 -18.54,0 -40,0 m 0,0 c 0,9.3 0,18.6 0,40 m 0,-40 c 0,8.94 0,17.88 0,40"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path473" />
+    </g>
+    <g
+       transform="translate(1930,2510)"
+       id="g475">
+      <path
+         d="m -40,40 -6.34,-13.59 h 12.68 L -40,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path474" />
+      <path
+         d="m -40,40 c -1.72,-3.7 -3.45,-7.39 -6.34,-13.59 M -40,40 c -1.47,-3.15 -2.94,-6.3 -6.34,-13.59 m 0,0 c 2.95,0 5.9,0 12.68,0 m -12.68,0 c 2.83,0 5.67,0 12.68,0 m 0,0 C -35.19,29.69 -36.72,32.97 -40,40 m 6.34,-13.59 C -35.57,30.49 -37.47,34.57 -40,40 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path475" />
+    </g>
+  </g>
+  <mask
+     id="mask-WpB5BHxGemC7vjwdy_yG4">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2070"
+       height="2650"
+       id="rect476" />
+    <rect
+       x="1877.696"
+       y="2500"
+       fill="#000000"
+       width="24.607986"
+       height="20"
+       opacity="1"
+       id="rect477" />
+  </mask>
+  <g
+     transform="translate(755.696,2500)"
+     id="g477">
+    <text
+       x="12.303993"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text477">Yes</text>
+  </g>
+  <g
+     mask="url(#mask-2I3PTfLZA25uRNHMgEBni)"
+     stroke-linecap="round"
+     id="g480"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2130,2510)"
+       id="g478">
+      <path
+         d="M 0,0 C 9.08,0 18.16,0 40,0 M 0,0 c 15.1,0 30.2,0 40,0 m 0,0 c 0,12.56 0,25.12 0,40 M 40,0 c 0,8.6 0,17.2 0,40"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path477" />
+    </g>
+    <g
+       transform="translate(2130,2510)"
+       id="g479">
+      <path
+         d="M 40,40 33.66,26.41 H 46.34 L 40,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path478" />
+      <path
+         d="M 40,40 C 38.56,36.91 37.12,33.83 33.66,26.41 M 40,40 C 37.61,34.87 35.21,29.74 33.66,26.41 m 0,0 c 3.98,0 7.96,0 12.68,0 m -12.68,0 c 2.73,0 5.45,0 12.68,0 m 0,0 C 44.56,30.22 42.78,34.03 40,40 M 46.34,26.41 C 44.53,30.29 42.71,34.18 40,40 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path479" />
+    </g>
+  </g>
+  <mask
+     id="mask-2I3PTfLZA25uRNHMgEBni">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2270"
+       height="2650"
+       id="rect480" />
+    <rect
+       x="2159.592"
+       y="2500"
+       fill="#000000"
+       width="20.815979"
+       height="20"
+       opacity="1"
+       id="rect481" />
+  </mask>
+  <g
+     transform="translate(1037.592,2500)"
+     id="g481">
+    <text
+       x="10.40799"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text481">No</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     id="g484"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2170,2611)"
+       id="g482">
+      <path
+         d="M 0,0 C 0,9.83 0,49.17 0,59 M 0,0 c 0,9.83 0,49.17 0,59"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path481" />
+    </g>
+    <g
+       transform="translate(2170,2611)"
+       id="g483">
+      <path
+         d="M 0,59 -6.34,45.41 H 6.34 L 0,59"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path482" />
+      <path
+         d="M 0,59 C -1.36,56.07 -2.73,53.15 -6.34,45.41 M 0,59 C -1.97,54.78 -3.94,50.56 -6.34,45.41 m 0,0 c 3.41,0 6.83,0 12.68,0 m -12.68,0 c 3.2,0 6.4,0 12.68,0 m 0,0 C 4.55,49.24 2.77,53.07 0,59 M 6.34,45.41 C 3.88,50.68 1.42,55.96 0,59 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path483" />
+    </g>
+  </g>
+  <mask
+     id="mask484" />
+  <g
+     stroke-linecap="round"
+     transform="translate(688,2130)"
+     id="g485">
+    <path
+       d="M 0,0 C 128.19,0 256.37,0 440,0 M 0,0 c 146.06,0 292.12,0 440,0 m 0,0 c 0,142.98 0,285.96 0,560 M 440,0 c 0,147.71 0,295.41 0,560 m 0,0 c -105.73,0 -211.46,0 -440,0 m 440,0 c -96.38,0 -192.76,0 -440,0 m 0,0 C 0,436.88 0,313.76 0,0 M 0,560 C 0,438.2 0,316.39 0,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path484" />
+  </g>
+  <g
+     stroke-linecap="round"
+     id="g488"
+     transform="translate(-1122)">
+    <g
+       transform="translate(1910,2430)"
+       id="g486">
+      <path
+         d="M 0,0 C 0,13.08 0,26.16 0,40 M 0,0 c 0,11.8 0,23.61 0,40 m 0,0 c 12.78,0 25.56,0 60,0 M 0,40 c 18.23,0 36.46,0 60,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path485" />
+    </g>
+    <g
+       transform="translate(1910,2430)"
+       id="g487">
+      <path
+         d="M 60,40 46.41,46.34 V 33.66 L 60,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path486" />
+      <path
+         d="m 60,40 c -4.44,2.07 -8.89,4.15 -13.59,6.34 M 60,40 c -4.01,1.87 -8.02,3.74 -13.59,6.34 m 0,0 c 0,-2.7 0,-5.4 0,-12.68 m 0,12.68 c 0,-3.85 0,-7.71 0,-12.68 m 0,0 C 51.19,35.89 55.97,38.12 60,40 M 46.41,33.66 c 4.08,1.9 8.16,3.81 13.59,6.34 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path487" />
+    </g>
+  </g>
+  <mask
+     id="mask488" />
+  <g
+     stroke-linecap="round"
+     id="g491"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2147.5859,2430)"
+       id="g489">
+      <path
+         d="M 0,0 C 0,10.52 0,21.05 0,40 M 0,0 c 0,13 0,25.99 0,40 m 0,0 c -22.06,0 -44.12,0 -57.59,0 M 0,40 c -17.27,0 -34.55,0 -57.59,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path488" />
+    </g>
+    <g
+       transform="translate(2147.5859,2430)"
+       id="g490">
+      <path
+         d="m -57.59,40 13.6,-6.34 V 46.34 L -57.59,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path489" />
+      <path
+         d="m -57.59,40 c 3.58,-1.67 7.16,-3.34 13.6,-6.34 M -57.59,40 c 4.42,-2.06 8.84,-4.12 13.6,-6.34 m 0,0 c 0,4.86 0,9.71 0,12.68 m 0,-12.68 c 0,3.8 0,7.61 0,12.68 m 0,0 c -3.72,-1.73 -7.43,-3.46 -13.6,-6.34 m 13.6,6.34 c -5.35,-2.5 -10.7,-4.99 -13.6,-6.34 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path490" />
+    </g>
+  </g>
+  <mask
+     id="mask491" />
+  <g
+     stroke-linecap="round"
+     transform="translate(1328,2410)"
+     id="g492">
+    <path
+       d="M 0,0 H 240 V 40 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#b2f2bb"
+       id="path491" />
+    <path
+       d="M 0,0 C 85.79,0 171.57,0 240,0 M 0,0 c 72.43,0 144.87,0 240,0 m 0,0 c 0,10.68 0,21.37 0,40 m 0,-40 c 0,9.38 0,18.76 0,40 m 0,0 C 151.79,40 63.58,40 0,40 m 240,0 C 175.08,40 110.16,40 0,40 m 0,0 C 0,28.96 0,17.92 0,0 M 0,40 C 0,31.5 0,23 0,0"
+       stroke="#1e1e1e"
+       stroke-width="4"
+       fill="none"
+       id="path492" />
+  </g>
+  <g
+     transform="translate(1357.3901,2417.5)"
+     id="g493">
+    <text
+       x="90.609886"
+       y="19.08"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="20px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text492">displayValue(string)</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     id="g496"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2570,2450)"
+       id="g494">
+      <path
+         d="M 0,0 C 0,3.33 0,16.67 0,20 M 0,0 c 0,3.33 0,16.67 0,20"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path493" />
+    </g>
+    <g
+       transform="translate(2570,2450)"
+       id="g495">
+      <path
+         d="M 0,20 -4.23,10.94 H 4.23 L 0,20"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path494" />
+      <path
+         d="M 0,20 C -1.66,16.44 -3.32,12.87 -4.23,10.94 M 0,20 c -0.94,-2.01 -1.87,-4.01 -4.23,-9.06 m 0,0 c 3.2,0 6.39,0 8.46,0 m -8.46,0 c 2.3,0 4.6,0 8.46,0 m 0,0 C 3.11,13.34 1.99,15.74 0,20 M 4.23,10.94 C 2.78,14.04 1.33,17.15 0,20 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path495" />
+    </g>
+  </g>
+  <mask
+     id="mask496" />
+  <g
+     stroke-linecap="round"
+     transform="translate(1368,2470)"
+     id="g497">
+    <path
+       d="M 81,0 160,81 81,160 0,81"
+       stroke="none"
+       stroke-width="0"
+       fill="#a5d8ff"
+       fill-rule="evenodd"
+       id="path496" />
+    <path
+       d="m 81,0 c 19.18,19.66 38.36,39.33 79,81 M 81,0 c 22.12,22.68 44.23,45.35 79,81 m 0,0 c -20.95,20.95 -41.91,41.91 -79,79 m 79,-79 c -27.97,27.97 -55.93,55.93 -79,79 m 0,0 C 48.78,128.57 16.56,97.15 0,81 m 81,79 C 57.14,136.73 33.28,113.46 0,81 m 0,0 C 25.17,55.83 50.34,30.66 81,0 M 0,81 C 26.55,54.45 53.1,27.9 81,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path497" />
+  </g>
+  <g
+     transform="translate(1420.312,2530)"
+     id="g498">
+    <text
+       x="27.687973"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text497">string =</text>
+    <text
+       x="27.687973"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text498">&quot;&quot;?</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1248,2590)"
+     id="g499">
+    <path
+       d="M 0,0 H 160 V 80 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#ffec99"
+       id="path498" />
+    <path
+       d="M 0,0 C 50.68,0 101.37,0 160,0 M 0,0 c 54.98,0 109.96,0 160,0 m 0,0 c 0,20.52 0,41.04 0,80 m 0,-80 c 0,21.13 0,42.26 0,80 m 0,0 C 109.08,80 58.15,80 0,80 m 160,0 C 97.22,80 34.44,80 0,80 m 0,0 C 0,56.84 0,33.69 0,0 M 0,80 C 0,62.75 0,45.5 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path499" />
+  </g>
+  <g
+     transform="translate(1269.104,2610)"
+     id="g500">
+    <text
+       x="58.895958"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text499">numbersDisplay</text>
+    <text
+       x="58.895958"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text500">.innerText = 0</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1488,2590)"
+     id="g501">
+    <path
+       d="M 0,0 H 160 V 80 H 0"
+       stroke="none"
+       stroke-width="0"
+       fill="#ffec99"
+       id="path500" />
+    <path
+       d="M 0,0 C 44.46,0 88.92,0 160,0 M 0,0 c 45.89,0 91.78,0 160,0 m 0,0 c 0,16.51 0,33.02 0,80 m 0,-80 c 0,29.69 0,59.37 0,80 m 0,0 C 108.9,80 57.79,80 0,80 m 160,0 C 120.38,80 80.75,80 0,80 m 0,0 C 0,61.31 0,42.61 0,0 M 0,80 C 0,51.81 0,23.61 0,0"
+       stroke="#1e1e1e"
+       stroke-width="1"
+       fill="none"
+       id="path501" />
+  </g>
+  <g
+     transform="translate(1493.3361,2600)"
+     id="g503">
+    <text
+       x="74.663925"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text501">numbersDisplay</text>
+    <text
+       x="74.663925"
+       y="35.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text502">.innerText =</text>
+    <text
+       x="74.663925"
+       y="55.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text503">handleStrLen(string)</text>
+  </g>
+  <g
+     mask="url(#mask-EWpMtaz5qCJpRy6SMj1oZ)"
+     stroke-linecap="round"
+     id="g506"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2490,2550)"
+       id="g504">
+      <path
+         d="M 0,0 C -14.1,0 -28.2,0 -40,0 M 0,0 c -13.58,0 -27.17,0 -40,0 m 0,0 c 0,8.88 0,17.76 0,40 m 0,-40 c 0,13.48 0,26.96 0,40"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path503" />
+    </g>
+    <g
+       transform="translate(2490,2550)"
+       id="g505">
+      <path
+         d="m -40,40 -6.34,-13.59 h 12.68 L -40,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path504" />
+      <path
+         d="m -40,40 c -2.23,-4.79 -4.47,-9.59 -6.34,-13.59 M -40,40 c -2.15,-4.62 -4.31,-9.23 -6.34,-13.59 m 0,0 c 2.81,0 5.63,0 12.68,0 m -12.68,0 c 4.27,0 8.54,0 12.68,0 m 0,0 C -35.97,31.35 -38.27,36.29 -40,40 m 6.34,-13.59 C -36.07,31.56 -38.47,36.72 -40,40 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path505" />
+    </g>
+  </g>
+  <mask
+     id="mask-EWpMtaz5qCJpRy6SMj1oZ">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2630"
+       height="2690"
+       id="rect506" />
+    <rect
+       x="2437.696"
+       y="2540"
+       fill="#000000"
+       width="24.607986"
+       height="20"
+       opacity="1"
+       id="rect507" />
+  </mask>
+  <g
+     transform="translate(1315.696,2540)"
+     id="g507">
+    <text
+       x="12.303993"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text507">Yes</text>
+  </g>
+  <g
+     mask="url(#mask-5aEO95s3s3v481-6k0NJA)"
+     stroke-linecap="round"
+     id="g510"
+     transform="translate(-1122)">
+    <g
+       transform="translate(2650,2550)"
+       id="g508">
+      <path
+         d="M 0,0 C 13.76,0 27.52,0 40,0 M 0,0 c 13.22,0 26.45,0 40,0 m 0,0 c 0,9.47 0,18.94 0,40 M 40,0 c 0,14.89 0,29.79 0,40"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path507" />
+    </g>
+    <g
+       transform="translate(2650,2550)"
+       id="g509">
+      <path
+         d="M 40,40 33.66,26.41 H 46.34 L 40,40"
+         stroke="none"
+         stroke-width="0"
+         fill="#1e1e1e"
+         fill-rule="evenodd"
+         id="path508" />
+      <path
+         d="M 40,40 C 37.82,35.32 35.64,30.65 33.66,26.41 M 40,40 C 37.9,35.51 35.81,31.01 33.66,26.41 m 0,0 c 3,0 6,0 12.68,0 m -12.68,0 c 4.72,0 9.44,0 12.68,0 m 0,0 C 44.5,30.35 42.66,34.29 40,40 M 46.34,26.41 C 45.04,29.2 43.73,31.99 40,40 m 0,0 c 0,0 0,0 0,0 m 0,0 c 0,0 0,0 0,0"
+         stroke="#1e1e1e"
+         stroke-width="2"
+         fill="none"
+         id="path509" />
+    </g>
+  </g>
+  <mask
+     id="mask-5aEO95s3s3v481-6k0NJA">
+    <rect
+       x="0"
+       y="0"
+       fill="#ffffff"
+       width="2790"
+       height="2690"
+       id="rect510" />
+    <rect
+       x="2679.592"
+       y="2540"
+       fill="#000000"
+       width="20.815979"
+       height="20"
+       opacity="1"
+       id="rect511" />
+  </mask>
+  <g
+     transform="translate(1557.592,2540)"
+     id="g511">
+    <text
+       x="10.40799"
+       y="15.264"
+       font-family="Nunito, sans-serif, 'Segoe UI Emoji'"
+       font-size="16px"
+       fill="#1e1e1e"
+       text-anchor="middle"
+       style="white-space:pre"
+       direction="ltr"
+       dominant-baseline="alphabetic"
+       id="text511">No</text>
+  </g>
+  <g
+     stroke-linecap="round"
+     transform="translate(1228,2390)"
+     id="g512">
+    <path
+       d="M 0,0 C 142.75,0 285.5,0 440,0 M 0,0 c 151.05,0 302.1,0 440,0 m 0,0 c 0,119 0,238.01 0,300 M 440,0 c 0,107.67 0,215.35 0,300 m 0,0 c -107.3,0 -214.61,0 -440,0 m 440,0 c -148.98,0 -297.96,0 -440,0 m 0,0 C 0,181.15 0,62.3 0,0 M 0,300 C 0,184.13 0,68.26 0,0"
+       stroke="#1e1e1e"
+       stroke-width="2"
+       fill="none"
+       id="path511" />
+  </g>
+</svg>
