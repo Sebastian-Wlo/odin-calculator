@@ -6,3 +6,5 @@ Currently, it doesn't support operations on negative numbers, and rounds up the 
 ## Flowchart displaing the script's logic
 
 ![Flowchart displaying the order in which operations in the script are executed in](./img/Calculator%20flowchart.svg)
+
+[Link to the project's deployment on GitHub Pages](https://sebastian-wlo.github.io/odin-calculator/)
